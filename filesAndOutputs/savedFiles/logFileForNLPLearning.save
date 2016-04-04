@@ -1,0 +1,3848 @@
+29.3.2016 15:25:31: 
+
+*************************
+A new session for NLP learning is starting: 20160329_152531file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 26212secs ago)The initiliased time of NLP learning: Tue Mar 29 15:25:31 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+29.3.2016 15:26:21: 
+*** A new run starts.
+29.3.2016 15:26:21: 
+The execution time (pre-processing the first document): Tue Mar 29 15:26:21 CEST 2016
+29.3.2016 15:27:03: The learning start at Tue Mar 29 15:27:03 CEST 2016
+29.3.2016 15:27:03: The number of documents in dataset: 2
+29.3.2016 15:27:12: ** Training mode:
+29.3.2016 15:27:21: 
+Training starts.
+
+29.3.2016 15:27:21: Multi to binary conversion.
+29.3.2016 15:27:21: The learners: PAUM
+29.3.2016 15:27:21: The number of classes in dataset: 8
+29.3.2016 15:27:21: total Number of classes for learning is 8
+29.3.2016 15:27:21: One against others for multi to binary class conversion.
+29.3.2016 15:27:21: Running tasks using executor java.util.concurrent.ThreadPoolExecutor@4cc28666[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+29.3.2016 15:27:23: Training time for class 5: 1361ms
+29.3.2016 15:27:23: Training time for class 8: 1448ms
+29.3.2016 15:27:23: Training time for class 4: 1455ms
+29.3.2016 15:27:23: Training time for class 1: 1523ms
+29.3.2016 15:27:23: Training time for class 2: 1536ms
+29.3.2016 15:27:23: Training time for class 6: 1677ms
+29.3.2016 15:27:23: Training time for class 3: 1837ms
+29.3.2016 15:27:23: Training time for class 7: 1865ms
+29.3.2016 15:27:23: This learning session finished!.
+31.3.2016 7:52:50: 
+
+*************************
+A new session for NLP learning is starting: 20160331_075250file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 171851secs ago)The initiliased time of NLP learning: Thu Mar 31 07:52:50 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 7:52:51: 
+*** A new run starts.
+31.3.2016 7:52:51: 
+The execution time (pre-processing the first document): Thu Mar 31 07:52:51 CEST 2016
+31.3.2016 7:52:51: ** Application mode for document from 0 to 1(not included):
+31.3.2016 7:52:51: Creating temp directory for application-mode files
+31.3.2016 7:52:51: 
+Application starts.
+31.3.2016 7:52:51: Multi to binary conversion.
+31.3.2016 7:52:51: The learners: PAUM
+31.3.2016 7:52:51: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 7:52:52: Application time for class: 328ms
+31.3.2016 7:52:52: The learning start at Thu Mar 31 07:52:52 CEST 2016
+31.3.2016 7:52:52: The number of documents in dataset: 1
+31.3.2016 7:52:52: This learning session finished!.
+31.3.2016 11:19:41: 
+
+*************************
+A new session for NLP learning is starting: 20160331_111940file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 184261secs ago)The initiliased time of NLP learning: Thu Mar 31 11:19:41 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:19:41: 
+
+*************************
+A new session for NLP learning is starting: 20160331_111941file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 184261secs ago)The initiliased time of NLP learning: Thu Mar 31 11:19:41 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:19:42: 
+*** A new run starts.
+31.3.2016 11:19:42: 
+The execution time (pre-processing the first document): Thu Mar 31 11:19:42 CEST 2016
+31.3.2016 11:19:42: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:19:42: Creating temp directory for application-mode files
+31.3.2016 11:19:43: 
+Application starts.
+31.3.2016 11:19:43: Multi to binary conversion.
+31.3.2016 11:19:43: The learners: PAUM
+31.3.2016 11:19:43: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:19:44: Application time for class: 788ms
+31.3.2016 11:19:44: The learning start at Thu Mar 31 11:19:44 CEST 2016
+31.3.2016 11:19:44: The number of documents in dataset: 1
+31.3.2016 11:19:44: This learning session finished!.
+31.3.2016 11:25:31: 
+
+*************************
+A new session for NLP learning is starting: 20160331_112531file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 184612secs ago)The initiliased time of NLP learning: Thu Mar 31 11:25:31 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:27:46: 
+
+*************************
+A new session for NLP learning is starting: 20160331_112746file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 184746secs ago)The initiliased time of NLP learning: Thu Mar 31 11:27:46 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:34:01: 
+
+*************************
+A new session for NLP learning is starting: 20160331_113400file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185121secs ago)The initiliased time of NLP learning: Thu Mar 31 11:34:00 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:34:01: 
+
+*************************
+A new session for NLP learning is starting: 20160331_113401file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185121secs ago)The initiliased time of NLP learning: Thu Mar 31 11:34:01 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:34:16: 
+
+*************************
+A new session for NLP learning is starting: 20160331_113416file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185136secs ago)The initiliased time of NLP learning: Thu Mar 31 11:34:16 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:36:49: 
+
+*************************
+A new session for NLP learning is starting: 20160331_113649file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185290secs ago)The initiliased time of NLP learning: Thu Mar 31 11:36:49 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:37:08: 
+
+*************************
+A new session for NLP learning is starting: 20160331_113708file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185309secs ago)The initiliased time of NLP learning: Thu Mar 31 11:37:08 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:37:25: 
+
+*************************
+A new session for NLP learning is starting: 20160331_113725file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185325secs ago)The initiliased time of NLP learning: Thu Mar 31 11:37:25 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:37:37: 
+
+*************************
+A new session for NLP learning is starting: 20160331_113737file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185337secs ago)The initiliased time of NLP learning: Thu Mar 31 11:37:37 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 11:37:40: 
+*** A new run starts.
+31.3.2016 11:37:40: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:40 CEST 2016
+31.3.2016 11:37:40: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:40: Creating temp directory for application-mode files
+31.3.2016 11:37:40: 
+Application starts.
+31.3.2016 11:37:40: Multi to binary conversion.
+31.3.2016 11:37:40: The learners: PAUM
+31.3.2016 11:37:40: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:40: Application time for class: 424ms
+31.3.2016 11:37:40: The learning start at Thu Mar 31 11:37:40 CEST 2016
+31.3.2016 11:37:40: The number of documents in dataset: 1
+31.3.2016 11:37:40: This learning session finished!.
+31.3.2016 11:37:42: 
+*** A new run starts.
+31.3.2016 11:37:42: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:42 CEST 2016
+31.3.2016 11:37:42: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:42: 
+Application starts.
+31.3.2016 11:37:42: Multi to binary conversion.
+31.3.2016 11:37:42: The learners: PAUM
+31.3.2016 11:37:42: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:42: Application time for class: 235ms
+31.3.2016 11:37:42: The learning start at Thu Mar 31 11:37:42 CEST 2016
+31.3.2016 11:37:42: The number of documents in dataset: 1
+31.3.2016 11:37:42: This learning session finished!.
+31.3.2016 11:37:43: 
+*** A new run starts.
+31.3.2016 11:37:43: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:43 CEST 2016
+31.3.2016 11:37:43: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:43: 
+Application starts.
+31.3.2016 11:37:43: Multi to binary conversion.
+31.3.2016 11:37:43: The learners: PAUM
+31.3.2016 11:37:43: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:43: Application time for class: 263ms
+31.3.2016 11:37:43: The learning start at Thu Mar 31 11:37:43 CEST 2016
+31.3.2016 11:37:43: The number of documents in dataset: 1
+31.3.2016 11:37:43: This learning session finished!.
+31.3.2016 11:37:44: 
+*** A new run starts.
+31.3.2016 11:37:44: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:44 CEST 2016
+31.3.2016 11:37:44: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:44: 
+Application starts.
+31.3.2016 11:37:44: Multi to binary conversion.
+31.3.2016 11:37:44: The learners: PAUM
+31.3.2016 11:37:44: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:44: Application time for class: 188ms
+31.3.2016 11:37:44: The learning start at Thu Mar 31 11:37:44 CEST 2016
+31.3.2016 11:37:44: The number of documents in dataset: 1
+31.3.2016 11:37:44: This learning session finished!.
+31.3.2016 11:37:44: 
+*** A new run starts.
+31.3.2016 11:37:44: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:44 CEST 2016
+31.3.2016 11:37:44: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:45: 
+Application starts.
+31.3.2016 11:37:45: Multi to binary conversion.
+31.3.2016 11:37:45: The learners: PAUM
+31.3.2016 11:37:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:45: Application time for class: 191ms
+31.3.2016 11:37:45: The learning start at Thu Mar 31 11:37:45 CEST 2016
+31.3.2016 11:37:45: The number of documents in dataset: 1
+31.3.2016 11:37:45: This learning session finished!.
+31.3.2016 11:37:45: 
+*** A new run starts.
+31.3.2016 11:37:45: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:45 CEST 2016
+31.3.2016 11:37:45: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:45: 
+Application starts.
+31.3.2016 11:37:45: Multi to binary conversion.
+31.3.2016 11:37:45: The learners: PAUM
+31.3.2016 11:37:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:45: Application time for class: 162ms
+31.3.2016 11:37:45: The learning start at Thu Mar 31 11:37:45 CEST 2016
+31.3.2016 11:37:45: The number of documents in dataset: 1
+31.3.2016 11:37:45: This learning session finished!.
+31.3.2016 11:37:46: 
+*** A new run starts.
+31.3.2016 11:37:46: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:46 CEST 2016
+31.3.2016 11:37:46: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:46: 
+Application starts.
+31.3.2016 11:37:46: Multi to binary conversion.
+31.3.2016 11:37:46: The learners: PAUM
+31.3.2016 11:37:46: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:46: Application time for class: 195ms
+31.3.2016 11:37:46: The learning start at Thu Mar 31 11:37:46 CEST 2016
+31.3.2016 11:37:46: The number of documents in dataset: 1
+31.3.2016 11:37:46: This learning session finished!.
+31.3.2016 11:37:46: 
+*** A new run starts.
+31.3.2016 11:37:46: 
+The execution time (pre-processing the first document): Thu Mar 31 11:37:46 CEST 2016
+31.3.2016 11:37:46: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:37:46: 
+Application starts.
+31.3.2016 11:37:46: Multi to binary conversion.
+31.3.2016 11:37:46: The learners: PAUM
+31.3.2016 11:37:46: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:37:47: Application time for class: 226ms
+31.3.2016 11:37:47: The learning start at Thu Mar 31 11:37:47 CEST 2016
+31.3.2016 11:37:47: The number of documents in dataset: 1
+31.3.2016 11:37:47: This learning session finished!.
+31.3.2016 11:38:06: 
+*** A new run starts.
+31.3.2016 11:38:06: 
+The execution time (pre-processing the first document): Thu Mar 31 11:38:06 CEST 2016
+31.3.2016 11:38:06: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:38:07: 
+Application starts.
+31.3.2016 11:38:07: Multi to binary conversion.
+31.3.2016 11:38:07: The learners: PAUM
+31.3.2016 11:38:07: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:38:07: Application time for class: 210ms
+31.3.2016 11:38:07: The learning start at Thu Mar 31 11:38:07 CEST 2016
+31.3.2016 11:38:07: The number of documents in dataset: 1
+31.3.2016 11:38:07: This learning session finished!.
+31.3.2016 11:41:31: 
+
+*************************
+A new session for NLP learning is starting: 20160331_114131file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185571secs ago)The initiliased time of NLP learning: Thu Mar 31 11:41:31 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 11:42:55: 
+
+*************************
+A new session for NLP learning is starting: 20160331_114255file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185655secs ago)The initiliased time of NLP learning: Thu Mar 31 11:42:55 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 11:43:01: 
+*** A new run starts.
+31.3.2016 11:43:01: 
+The execution time (pre-processing the first document): Thu Mar 31 11:43:01 CEST 2016
+31.3.2016 11:43:01: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:43:01: Creating temp directory for application-mode files
+31.3.2016 11:43:01: 
+Application starts.
+31.3.2016 11:43:01: Multi to binary conversion.
+31.3.2016 11:43:01: The learners: PAUM
+31.3.2016 11:43:01: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:43:01: Application time for class: 401ms
+31.3.2016 11:43:01: The learning start at Thu Mar 31 11:43:01 CEST 2016
+31.3.2016 11:43:01: The number of documents in dataset: 1
+31.3.2016 11:43:01: This learning session finished!.
+31.3.2016 11:43:08: 
+*** A new run starts.
+31.3.2016 11:43:08: 
+The execution time (pre-processing the first document): Thu Mar 31 11:43:08 CEST 2016
+31.3.2016 11:43:08: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:43:08: 
+Application starts.
+31.3.2016 11:43:08: Multi to binary conversion.
+31.3.2016 11:43:08: The learners: PAUM
+31.3.2016 11:43:08: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:43:08: Application time for class: 222ms
+31.3.2016 11:43:08: The learning start at Thu Mar 31 11:43:08 CEST 2016
+31.3.2016 11:43:08: The number of documents in dataset: 1
+31.3.2016 11:43:08: This learning session finished!.
+31.3.2016 11:43:09: 
+*** A new run starts.
+31.3.2016 11:43:09: 
+The execution time (pre-processing the first document): Thu Mar 31 11:43:09 CEST 2016
+31.3.2016 11:43:09: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:43:09: 
+Application starts.
+31.3.2016 11:43:09: Multi to binary conversion.
+31.3.2016 11:43:09: The learners: PAUM
+31.3.2016 11:43:09: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:43:09: Application time for class: 200ms
+31.3.2016 11:43:09: The learning start at Thu Mar 31 11:43:09 CEST 2016
+31.3.2016 11:43:09: The number of documents in dataset: 1
+31.3.2016 11:43:09: This learning session finished!.
+31.3.2016 11:43:10: 
+*** A new run starts.
+31.3.2016 11:43:10: 
+The execution time (pre-processing the first document): Thu Mar 31 11:43:10 CEST 2016
+31.3.2016 11:43:10: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:43:10: 
+Application starts.
+31.3.2016 11:43:10: Multi to binary conversion.
+31.3.2016 11:43:10: The learners: PAUM
+31.3.2016 11:43:10: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:43:10: Application time for class: 167ms
+31.3.2016 11:43:10: The learning start at Thu Mar 31 11:43:10 CEST 2016
+31.3.2016 11:43:10: The number of documents in dataset: 1
+31.3.2016 11:43:10: This learning session finished!.
+31.3.2016 11:43:11: 
+*** A new run starts.
+31.3.2016 11:43:11: 
+The execution time (pre-processing the first document): Thu Mar 31 11:43:11 CEST 2016
+31.3.2016 11:43:11: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:43:11: 
+Application starts.
+31.3.2016 11:43:11: Multi to binary conversion.
+31.3.2016 11:43:11: The learners: PAUM
+31.3.2016 11:43:11: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:43:11: Application time for class: 156ms
+31.3.2016 11:43:11: The learning start at Thu Mar 31 11:43:11 CEST 2016
+31.3.2016 11:43:11: The number of documents in dataset: 1
+31.3.2016 11:43:11: This learning session finished!.
+31.3.2016 11:43:11: 
+*** A new run starts.
+31.3.2016 11:43:11: 
+The execution time (pre-processing the first document): Thu Mar 31 11:43:11 CEST 2016
+31.3.2016 11:43:11: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:43:11: 
+Application starts.
+31.3.2016 11:43:11: Multi to binary conversion.
+31.3.2016 11:43:11: The learners: PAUM
+31.3.2016 11:43:11: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:43:11: Application time for class: 182ms
+31.3.2016 11:43:11: The learning start at Thu Mar 31 11:43:11 CEST 2016
+31.3.2016 11:43:11: The number of documents in dataset: 1
+31.3.2016 11:43:11: This learning session finished!.
+31.3.2016 11:46:12: 
+*** A new run starts.
+31.3.2016 11:46:12: 
+The execution time (pre-processing the first document): Thu Mar 31 11:46:12 CEST 2016
+31.3.2016 11:46:12: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:46:12: 
+Application starts.
+31.3.2016 11:46:12: Multi to binary conversion.
+31.3.2016 11:46:12: The learners: PAUM
+31.3.2016 11:46:12: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:46:12: Application time for class: 170ms
+31.3.2016 11:46:12: The learning start at Thu Mar 31 11:46:12 CEST 2016
+31.3.2016 11:46:12: The number of documents in dataset: 1
+31.3.2016 11:46:12: This learning session finished!.
+31.3.2016 11:46:45: 
+
+*************************
+A new session for NLP learning is starting: 20160331_114645file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 185885secs ago)The initiliased time of NLP learning: Thu Mar 31 11:46:45 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 11:47:27: 
+*** A new run starts.
+31.3.2016 11:47:27: 
+The execution time (pre-processing the first document): Thu Mar 31 11:47:27 CEST 2016
+31.3.2016 11:47:27: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:47:27: Creating temp directory for application-mode files
+31.3.2016 11:47:27: 
+Application starts.
+31.3.2016 11:47:27: Multi to binary conversion.
+31.3.2016 11:47:27: The learners: PAUM
+31.3.2016 11:47:27: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:47:27: Application time for class: 193ms
+31.3.2016 11:47:27: The learning start at Thu Mar 31 11:47:27 CEST 2016
+31.3.2016 11:47:27: The number of documents in dataset: 1
+31.3.2016 11:47:27: This learning session finished!.
+31.3.2016 11:48:45: 
+*** A new run starts.
+31.3.2016 11:48:45: 
+The execution time (pre-processing the first document): Thu Mar 31 11:48:45 CEST 2016
+31.3.2016 11:48:45: ** Application mode for document from 0 to 1(not included):
+31.3.2016 11:48:45: 
+Application starts.
+31.3.2016 11:48:45: Multi to binary conversion.
+31.3.2016 11:48:45: The learners: PAUM
+31.3.2016 11:48:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 11:48:46: Application time for class: 1159ms
+31.3.2016 11:48:46: The learning start at Thu Mar 31 11:48:46 CEST 2016
+31.3.2016 11:48:46: The number of documents in dataset: 1
+31.3.2016 11:48:46: This learning session finished!.
+31.3.2016 13:42:19: 
+*** A new run starts.
+31.3.2016 13:42:19: 
+The execution time (pre-processing the first document): Thu Mar 31 13:42:19 CEST 2016
+31.3.2016 13:42:19: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:42:19: 
+Application starts.
+31.3.2016 13:42:19: Multi to binary conversion.
+31.3.2016 13:42:19: The learners: PAUM
+31.3.2016 13:42:19: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:42:19: Application time for class: 638ms
+31.3.2016 13:42:19: The learning start at Thu Mar 31 13:42:19 CEST 2016
+31.3.2016 13:42:19: The number of documents in dataset: 1
+31.3.2016 13:42:19: This learning session finished!.
+31.3.2016 13:45:28: 
+
+*************************
+A new session for NLP learning is starting: 20160331_134528file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 193009secs ago)The initiliased time of NLP learning: Thu Mar 31 13:45:28 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 13:57:09: 
+*** A new run starts.
+31.3.2016 13:57:09: 
+The execution time (pre-processing the first document): Thu Mar 31 13:57:09 CEST 2016
+31.3.2016 13:57:09: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:57:09: Creating temp directory for application-mode files
+31.3.2016 13:57:09: 
+Application starts.
+31.3.2016 13:57:09: Multi to binary conversion.
+31.3.2016 13:57:09: The learners: PAUM
+31.3.2016 13:57:09: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:57:10: Application time for class: 283ms
+31.3.2016 13:57:10: The learning start at Thu Mar 31 13:57:10 CEST 2016
+31.3.2016 13:57:10: The number of documents in dataset: 1
+31.3.2016 13:57:10: This learning session finished!.
+31.3.2016 13:58:02: 
+*** A new run starts.
+31.3.2016 13:58:02: 
+The execution time (pre-processing the first document): Thu Mar 31 13:58:02 CEST 2016
+31.3.2016 13:58:02: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:58:02: 
+Application starts.
+31.3.2016 13:58:02: Multi to binary conversion.
+31.3.2016 13:58:02: The learners: PAUM
+31.3.2016 13:58:02: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:58:02: Application time for class: 168ms
+31.3.2016 13:58:02: The learning start at Thu Mar 31 13:58:02 CEST 2016
+31.3.2016 13:58:02: The number of documents in dataset: 1
+31.3.2016 13:58:02: This learning session finished!.
+31.3.2016 13:58:02: 
+*** A new run starts.
+31.3.2016 13:58:02: 
+The execution time (pre-processing the first document): Thu Mar 31 13:58:02 CEST 2016
+31.3.2016 13:58:02: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:58:02: 
+Application starts.
+31.3.2016 13:58:02: Multi to binary conversion.
+31.3.2016 13:58:02: The learners: PAUM
+31.3.2016 13:58:02: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:58:02: Application time for class: 187ms
+31.3.2016 13:58:02: The learning start at Thu Mar 31 13:58:02 CEST 2016
+31.3.2016 13:58:02: The number of documents in dataset: 1
+31.3.2016 13:58:02: This learning session finished!.
+31.3.2016 13:58:06: 
+*** A new run starts.
+31.3.2016 13:58:06: 
+The execution time (pre-processing the first document): Thu Mar 31 13:58:06 CEST 2016
+31.3.2016 13:58:06: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:58:06: 
+Application starts.
+31.3.2016 13:58:06: Multi to binary conversion.
+31.3.2016 13:58:06: The learners: PAUM
+31.3.2016 13:58:06: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:58:06: Application time for class: 168ms
+31.3.2016 13:58:06: The learning start at Thu Mar 31 13:58:06 CEST 2016
+31.3.2016 13:58:06: The number of documents in dataset: 1
+31.3.2016 13:58:06: This learning session finished!.
+31.3.2016 13:58:06: 
+*** A new run starts.
+31.3.2016 13:58:06: 
+The execution time (pre-processing the first document): Thu Mar 31 13:58:06 CEST 2016
+31.3.2016 13:58:06: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:58:06: 
+Application starts.
+31.3.2016 13:58:06: Multi to binary conversion.
+31.3.2016 13:58:06: The learners: PAUM
+31.3.2016 13:58:06: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:58:06: Application time for class: 157ms
+31.3.2016 13:58:06: The learning start at Thu Mar 31 13:58:06 CEST 2016
+31.3.2016 13:58:06: The number of documents in dataset: 1
+31.3.2016 13:58:06: This learning session finished!.
+31.3.2016 13:59:03: 
+*** A new run starts.
+31.3.2016 13:59:03: 
+The execution time (pre-processing the first document): Thu Mar 31 13:59:03 CEST 2016
+31.3.2016 13:59:03: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:59:03: 
+Application starts.
+31.3.2016 13:59:03: Multi to binary conversion.
+31.3.2016 13:59:03: The learners: PAUM
+31.3.2016 13:59:03: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:59:03: Application time for class: 154ms
+31.3.2016 13:59:03: The learning start at Thu Mar 31 13:59:03 CEST 2016
+31.3.2016 13:59:03: The number of documents in dataset: 1
+31.3.2016 13:59:03: This learning session finished!.
+31.3.2016 13:59:04: 
+*** A new run starts.
+31.3.2016 13:59:04: 
+The execution time (pre-processing the first document): Thu Mar 31 13:59:04 CEST 2016
+31.3.2016 13:59:04: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:59:04: 
+Application starts.
+31.3.2016 13:59:04: Multi to binary conversion.
+31.3.2016 13:59:04: The learners: PAUM
+31.3.2016 13:59:04: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:59:05: Application time for class: 217ms
+31.3.2016 13:59:05: The learning start at Thu Mar 31 13:59:05 CEST 2016
+31.3.2016 13:59:05: The number of documents in dataset: 1
+31.3.2016 13:59:05: This learning session finished!.
+31.3.2016 13:59:38: 
+
+*************************
+A new session for NLP learning is starting: 20160331_135938file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 193858secs ago)The initiliased time of NLP learning: Thu Mar 31 13:59:38 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 13:59:41: 
+*** A new run starts.
+31.3.2016 13:59:41: 
+The execution time (pre-processing the first document): Thu Mar 31 13:59:41 CEST 2016
+31.3.2016 13:59:41: ** Application mode for document from 0 to 1(not included):
+31.3.2016 13:59:41: Creating temp directory for application-mode files
+31.3.2016 13:59:41: 
+Application starts.
+31.3.2016 13:59:41: Multi to binary conversion.
+31.3.2016 13:59:41: The learners: PAUM
+31.3.2016 13:59:41: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 13:59:42: Application time for class: 206ms
+31.3.2016 13:59:42: The learning start at Thu Mar 31 13:59:42 CEST 2016
+31.3.2016 13:59:42: The number of documents in dataset: 1
+31.3.2016 13:59:42: This learning session finished!.
+31.3.2016 14:03:57: 
+
+*************************
+A new session for NLP learning is starting: 20160331_140357file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 194117secs ago)The initiliased time of NLP learning: Thu Mar 31 14:03:57 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:04:09: 
+
+*************************
+A new session for NLP learning is starting: 20160331_140409file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 194129secs ago)The initiliased time of NLP learning: Thu Mar 31 14:04:09 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:04:13: 
+*** A new run starts.
+31.3.2016 14:04:13: 
+The execution time (pre-processing the first document): Thu Mar 31 14:04:13 CEST 2016
+31.3.2016 14:04:13: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:04:13: Creating temp directory for application-mode files
+31.3.2016 14:04:13: 
+Application starts.
+31.3.2016 14:04:13: Multi to binary conversion.
+31.3.2016 14:04:13: The learners: PAUM
+31.3.2016 14:04:13: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:04:14: Application time for class: 224ms
+31.3.2016 14:04:14: The learning start at Thu Mar 31 14:04:14 CEST 2016
+31.3.2016 14:04:14: The number of documents in dataset: 1
+31.3.2016 14:04:14: This learning session finished!.
+31.3.2016 14:04:45: 
+*** A new run starts.
+31.3.2016 14:04:45: 
+The execution time (pre-processing the first document): Thu Mar 31 14:04:45 CEST 2016
+31.3.2016 14:04:45: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:04:45: 
+Application starts.
+31.3.2016 14:04:45: Multi to binary conversion.
+31.3.2016 14:04:45: The learners: PAUM
+31.3.2016 14:04:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:04:45: Application time for class: 165ms
+31.3.2016 14:04:45: The learning start at Thu Mar 31 14:04:45 CEST 2016
+31.3.2016 14:04:45: The number of documents in dataset: 1
+31.3.2016 14:04:45: This learning session finished!.
+31.3.2016 14:04:45: 
+*** A new run starts.
+31.3.2016 14:04:45: 
+The execution time (pre-processing the first document): Thu Mar 31 14:04:45 CEST 2016
+31.3.2016 14:04:45: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:04:45: 
+Application starts.
+31.3.2016 14:04:45: Multi to binary conversion.
+31.3.2016 14:04:45: The learners: PAUM
+31.3.2016 14:04:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:04:45: Application time for class: 155ms
+31.3.2016 14:04:45: The learning start at Thu Mar 31 14:04:45 CEST 2016
+31.3.2016 14:04:45: The number of documents in dataset: 1
+31.3.2016 14:04:45: This learning session finished!.
+31.3.2016 14:05:13: 
+*** A new run starts.
+31.3.2016 14:05:13: 
+The execution time (pre-processing the first document): Thu Mar 31 14:05:13 CEST 2016
+31.3.2016 14:05:13: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:05:13: 
+Application starts.
+31.3.2016 14:05:13: Multi to binary conversion.
+31.3.2016 14:05:13: The learners: PAUM
+31.3.2016 14:05:13: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:05:13: Application time for class: 165ms
+31.3.2016 14:05:13: The learning start at Thu Mar 31 14:05:13 CEST 2016
+31.3.2016 14:05:13: The number of documents in dataset: 1
+31.3.2016 14:05:13: This learning session finished!.
+31.3.2016 14:06:50: 
+
+*************************
+A new session for NLP learning is starting: 20160331_140650file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 194290secs ago)The initiliased time of NLP learning: Thu Mar 31 14:06:50 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:06:50: 
+
+*************************
+A new session for NLP learning is starting: 20160331_140650file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 194291secs ago)The initiliased time of NLP learning: Thu Mar 31 14:06:50 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:08:41: 
+*** A new run starts.
+31.3.2016 14:08:41: 
+The execution time (pre-processing the first document): Thu Mar 31 14:08:41 CEST 2016
+31.3.2016 14:08:41: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:08:41: Creating temp directory for application-mode files
+31.3.2016 14:08:41: 
+Application starts.
+31.3.2016 14:08:41: Multi to binary conversion.
+31.3.2016 14:08:41: The learners: PAUM
+31.3.2016 14:08:41: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:08:42: Application time for class: 934ms
+31.3.2016 14:08:42: The learning start at Thu Mar 31 14:08:42 CEST 2016
+31.3.2016 14:08:42: The number of documents in dataset: 1
+31.3.2016 14:08:42: This learning session finished!.
+31.3.2016 14:10:02: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141002file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 194483secs ago)The initiliased time of NLP learning: Thu Mar 31 14:10:02 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:10:03: 
+*** A new run starts.
+31.3.2016 14:10:03: 
+The execution time (pre-processing the first document): Thu Mar 31 14:10:03 CEST 2016
+31.3.2016 14:10:03: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:10:03: Creating temp directory for application-mode files
+31.3.2016 14:10:04: 
+Application starts.
+31.3.2016 14:10:04: Multi to binary conversion.
+31.3.2016 14:10:04: The learners: PAUM
+31.3.2016 14:10:04: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:10:04: Application time for class: 188ms
+31.3.2016 14:10:04: The learning start at Thu Mar 31 14:10:04 CEST 2016
+31.3.2016 14:10:04: The number of documents in dataset: 1
+31.3.2016 14:10:04: This learning session finished!.
+31.3.2016 14:13:57: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141357file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 194717secs ago)The initiliased time of NLP learning: Thu Mar 31 14:13:57 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:14:00: 
+*** A new run starts.
+31.3.2016 14:14:00: 
+The execution time (pre-processing the first document): Thu Mar 31 14:14:00 CEST 2016
+31.3.2016 14:14:00: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:14:00: Creating temp directory for application-mode files
+31.3.2016 14:14:00: 
+Application starts.
+31.3.2016 14:14:00: Multi to binary conversion.
+31.3.2016 14:14:00: The learners: PAUM
+31.3.2016 14:14:00: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:14:00: Application time for class: 196ms
+31.3.2016 14:14:00: The learning start at Thu Mar 31 14:14:00 CEST 2016
+31.3.2016 14:14:00: The number of documents in dataset: 1
+31.3.2016 14:14:00: This learning session finished!.
+31.3.2016 14:16:45: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141645file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 194886secs ago)The initiliased time of NLP learning: Thu Mar 31 14:16:45 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:16:47: 
+*** A new run starts.
+31.3.2016 14:16:47: 
+The execution time (pre-processing the first document): Thu Mar 31 14:16:47 CEST 2016
+31.3.2016 14:16:47: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:16:47: Creating temp directory for application-mode files
+31.3.2016 14:16:47: 
+Application starts.
+31.3.2016 14:16:47: Multi to binary conversion.
+31.3.2016 14:16:47: The learners: PAUM
+31.3.2016 14:16:47: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:16:48: Application time for class: 229ms
+31.3.2016 14:16:48: The learning start at Thu Mar 31 14:16:48 CEST 2016
+31.3.2016 14:16:48: The number of documents in dataset: 1
+31.3.2016 14:16:48: This learning session finished!.
+31.3.2016 14:18:49: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141849file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195009secs ago)The initiliased time of NLP learning: Thu Mar 31 14:18:49 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:18:49: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141849file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195010secs ago)The initiliased time of NLP learning: Thu Mar 31 14:18:49 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:18:50: 
+*** A new run starts.
+31.3.2016 14:18:50: 
+The execution time (pre-processing the first document): Thu Mar 31 14:18:50 CEST 2016
+31.3.2016 14:18:50: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:18:50: Creating temp directory for application-mode files
+31.3.2016 14:18:50: 
+Application starts.
+31.3.2016 14:18:50: Multi to binary conversion.
+31.3.2016 14:18:50: The learners: PAUM
+31.3.2016 14:18:50: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:18:51: Application time for class: 265ms
+31.3.2016 14:18:51: The learning start at Thu Mar 31 14:18:51 CEST 2016
+31.3.2016 14:18:51: The number of documents in dataset: 1
+31.3.2016 14:18:51: This learning session finished!.
+31.3.2016 14:19:16: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141916file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195036secs ago)The initiliased time of NLP learning: Thu Mar 31 14:19:16 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:19:44: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141944file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195064secs ago)The initiliased time of NLP learning: Thu Mar 31 14:19:44 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:19:44: 
+
+*************************
+A new session for NLP learning is starting: 20160331_141944file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195065secs ago)The initiliased time of NLP learning: Thu Mar 31 14:19:44 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:19:47: 
+*** A new run starts.
+31.3.2016 14:19:47: 
+The execution time (pre-processing the first document): Thu Mar 31 14:19:47 CEST 2016
+31.3.2016 14:19:47: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:19:47: Creating temp directory for application-mode files
+31.3.2016 14:19:47: 
+Application starts.
+31.3.2016 14:19:47: Multi to binary conversion.
+31.3.2016 14:19:47: The learners: PAUM
+31.3.2016 14:19:47: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:19:47: Application time for class: 165ms
+31.3.2016 14:19:47: The learning start at Thu Mar 31 14:19:47 CEST 2016
+31.3.2016 14:19:47: The number of documents in dataset: 1
+31.3.2016 14:19:47: This learning session finished!.
+31.3.2016 14:20:09: 
+*** A new run starts.
+31.3.2016 14:20:09: 
+The execution time (pre-processing the first document): Thu Mar 31 14:20:09 CEST 2016
+31.3.2016 14:20:09: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:20:09: 
+Application starts.
+31.3.2016 14:20:09: Multi to binary conversion.
+31.3.2016 14:20:09: The learners: PAUM
+31.3.2016 14:20:09: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:20:10: Application time for class: 162ms
+31.3.2016 14:20:10: The learning start at Thu Mar 31 14:20:10 CEST 2016
+31.3.2016 14:20:10: The number of documents in dataset: 1
+31.3.2016 14:20:10: This learning session finished!.
+31.3.2016 14:20:10: 
+*** A new run starts.
+31.3.2016 14:20:10: 
+The execution time (pre-processing the first document): Thu Mar 31 14:20:10 CEST 2016
+31.3.2016 14:20:10: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:20:10: 
+Application starts.
+31.3.2016 14:20:10: Multi to binary conversion.
+31.3.2016 14:20:10: The learners: PAUM
+31.3.2016 14:20:10: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:20:10: Application time for class: 170ms
+31.3.2016 14:20:10: The learning start at Thu Mar 31 14:20:10 CEST 2016
+31.3.2016 14:20:10: The number of documents in dataset: 1
+31.3.2016 14:20:10: This learning session finished!.
+31.3.2016 14:20:40: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142040file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195121secs ago)The initiliased time of NLP learning: Thu Mar 31 14:20:40 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:20:52: 
+*** A new run starts.
+31.3.2016 14:20:52: 
+The execution time (pre-processing the first document): Thu Mar 31 14:20:52 CEST 2016
+31.3.2016 14:20:52: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:20:52: Creating temp directory for application-mode files
+31.3.2016 14:20:53: 
+Application starts.
+31.3.2016 14:20:53: Multi to binary conversion.
+31.3.2016 14:20:53: The learners: PAUM
+31.3.2016 14:20:53: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:20:53: Application time for class: 196ms
+31.3.2016 14:20:53: The learning start at Thu Mar 31 14:20:53 CEST 2016
+31.3.2016 14:20:53: The number of documents in dataset: 1
+31.3.2016 14:20:53: This learning session finished!.
+31.3.2016 14:21:18: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142117file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195158secs ago)The initiliased time of NLP learning: Thu Mar 31 14:21:17 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:21:18: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142118file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195158secs ago)The initiliased time of NLP learning: Thu Mar 31 14:21:18 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:21:30: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142130file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195170secs ago)The initiliased time of NLP learning: Thu Mar 31 14:21:30 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:21:30: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142130file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195171secs ago)The initiliased time of NLP learning: Thu Mar 31 14:21:30 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:21:38: 
+*** A new run starts.
+31.3.2016 14:21:38: 
+The execution time (pre-processing the first document): Thu Mar 31 14:21:38 CEST 2016
+31.3.2016 14:21:38: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:21:38: Creating temp directory for application-mode files
+31.3.2016 14:21:38: 
+Application starts.
+31.3.2016 14:21:38: Multi to binary conversion.
+31.3.2016 14:21:38: The learners: PAUM
+31.3.2016 14:21:38: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:21:38: Application time for class: 186ms
+31.3.2016 14:21:38: The learning start at Thu Mar 31 14:21:38 CEST 2016
+31.3.2016 14:21:38: The number of documents in dataset: 1
+31.3.2016 14:21:38: This learning session finished!.
+31.3.2016 14:25:58: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142558file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195438secs ago)The initiliased time of NLP learning: Thu Mar 31 14:25:58 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:26:08: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142608file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195448secs ago)The initiliased time of NLP learning: Thu Mar 31 14:26:08 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:26:14: 
+*** A new run starts.
+31.3.2016 14:26:14: 
+The execution time (pre-processing the first document): Thu Mar 31 14:26:14 CEST 2016
+31.3.2016 14:26:14: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:26:14: Creating temp directory for application-mode files
+31.3.2016 14:26:14: 
+Application starts.
+31.3.2016 14:26:14: Multi to binary conversion.
+31.3.2016 14:26:14: The learners: PAUM
+31.3.2016 14:26:14: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:26:14: Application time for class: 183ms
+31.3.2016 14:26:14: The learning start at Thu Mar 31 14:26:14 CEST 2016
+31.3.2016 14:26:14: The number of documents in dataset: 1
+31.3.2016 14:26:14: This learning session finished!.
+31.3.2016 14:27:40: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142740file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195540secs ago)The initiliased time of NLP learning: Thu Mar 31 14:27:40 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:28:19: 
+*** A new run starts.
+31.3.2016 14:28:19: 
+The execution time (pre-processing the first document): Thu Mar 31 14:28:19 CEST 2016
+31.3.2016 14:28:19: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:28:19: Creating temp directory for application-mode files
+31.3.2016 14:28:19: 
+Application starts.
+31.3.2016 14:28:19: Multi to binary conversion.
+31.3.2016 14:28:19: The learners: PAUM
+31.3.2016 14:28:19: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:28:19: Application time for class: 194ms
+31.3.2016 14:28:19: The learning start at Thu Mar 31 14:28:19 CEST 2016
+31.3.2016 14:28:19: The number of documents in dataset: 1
+31.3.2016 14:28:19: This learning session finished!.
+31.3.2016 14:28:42: 
+
+*************************
+A new session for NLP learning is starting: 20160331_142842file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195603secs ago)The initiliased time of NLP learning: Thu Mar 31 14:28:42 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:28:47: 
+*** A new run starts.
+31.3.2016 14:28:47: 
+The execution time (pre-processing the first document): Thu Mar 31 14:28:47 CEST 2016
+31.3.2016 14:28:47: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:28:47: Creating temp directory for application-mode files
+31.3.2016 14:28:47: 
+Application starts.
+31.3.2016 14:28:47: Multi to binary conversion.
+31.3.2016 14:28:47: The learners: PAUM
+31.3.2016 14:28:47: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:28:47: Application time for class: 199ms
+31.3.2016 14:28:47: The learning start at Thu Mar 31 14:28:47 CEST 2016
+31.3.2016 14:28:47: The number of documents in dataset: 1
+31.3.2016 14:28:47: This learning session finished!.
+31.3.2016 14:30:22: 
+
+*************************
+A new session for NLP learning is starting: 20160331_143022file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 195703secs ago)The initiliased time of NLP learning: Thu Mar 31 14:30:22 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:30:26: 
+*** A new run starts.
+31.3.2016 14:30:26: 
+The execution time (pre-processing the first document): Thu Mar 31 14:30:26 CEST 2016
+31.3.2016 14:30:26: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:30:26: Creating temp directory for application-mode files
+31.3.2016 14:30:26: 
+Application starts.
+31.3.2016 14:30:26: Multi to binary conversion.
+31.3.2016 14:30:26: The learners: PAUM
+31.3.2016 14:30:26: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:30:26: Application time for class: 185ms
+31.3.2016 14:30:26: The learning start at Thu Mar 31 14:30:26 CEST 2016
+31.3.2016 14:30:26: The number of documents in dataset: 1
+31.3.2016 14:30:26: This learning session finished!.
+31.3.2016 14:36:48: 
+*** A new run starts.
+31.3.2016 14:36:48: 
+The execution time (pre-processing the first document): Thu Mar 31 14:36:48 CEST 2016
+31.3.2016 14:36:48: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:36:48: 
+Application starts.
+31.3.2016 14:36:48: Multi to binary conversion.
+31.3.2016 14:36:48: The learners: PAUM
+31.3.2016 14:36:48: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:36:49: Application time for class: 580ms
+31.3.2016 14:36:49: The learning start at Thu Mar 31 14:36:49 CEST 2016
+31.3.2016 14:36:49: The number of documents in dataset: 1
+31.3.2016 14:36:49: This learning session finished!.
+31.3.2016 14:38:04: 
+*** A new run starts.
+31.3.2016 14:38:04: 
+The execution time (pre-processing the first document): Thu Mar 31 14:38:04 CEST 2016
+31.3.2016 14:38:04: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:38:04: 
+Application starts.
+31.3.2016 14:38:04: Multi to binary conversion.
+31.3.2016 14:38:04: The learners: PAUM
+31.3.2016 14:38:04: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:38:04: Application time for class: 185ms
+31.3.2016 14:38:04: The learning start at Thu Mar 31 14:38:04 CEST 2016
+31.3.2016 14:38:04: The number of documents in dataset: 1
+31.3.2016 14:38:04: This learning session finished!.
+31.3.2016 14:38:46: 
+*** A new run starts.
+31.3.2016 14:38:46: 
+The execution time (pre-processing the first document): Thu Mar 31 14:38:46 CEST 2016
+31.3.2016 14:38:46: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:38:46: 
+Application starts.
+31.3.2016 14:38:46: Multi to binary conversion.
+31.3.2016 14:38:46: The learners: PAUM
+31.3.2016 14:38:46: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:38:46: Application time for class: 145ms
+31.3.2016 14:38:46: The learning start at Thu Mar 31 14:38:46 CEST 2016
+31.3.2016 14:38:46: The number of documents in dataset: 1
+31.3.2016 14:38:46: This learning session finished!.
+31.3.2016 14:40:19: 
+*** A new run starts.
+31.3.2016 14:40:19: 
+The execution time (pre-processing the first document): Thu Mar 31 14:40:19 CEST 2016
+31.3.2016 14:40:19: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:40:19: 
+Application starts.
+31.3.2016 14:40:19: Multi to binary conversion.
+31.3.2016 14:40:19: The learners: PAUM
+31.3.2016 14:40:19: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:40:19: Application time for class: 155ms
+31.3.2016 14:40:19: The learning start at Thu Mar 31 14:40:19 CEST 2016
+31.3.2016 14:40:19: The number of documents in dataset: 1
+31.3.2016 14:40:19: This learning session finished!.
+31.3.2016 14:40:24: 
+*** A new run starts.
+31.3.2016 14:40:24: 
+The execution time (pre-processing the first document): Thu Mar 31 14:40:24 CEST 2016
+31.3.2016 14:40:24: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:40:24: 
+Application starts.
+31.3.2016 14:40:24: Multi to binary conversion.
+31.3.2016 14:40:24: The learners: PAUM
+31.3.2016 14:40:24: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:40:24: Application time for class: 137ms
+31.3.2016 14:40:24: The learning start at Thu Mar 31 14:40:24 CEST 2016
+31.3.2016 14:40:24: The number of documents in dataset: 1
+31.3.2016 14:40:24: This learning session finished!.
+31.3.2016 14:41:12: 
+*** A new run starts.
+31.3.2016 14:41:12: 
+The execution time (pre-processing the first document): Thu Mar 31 14:41:12 CEST 2016
+31.3.2016 14:41:12: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:41:12: 
+Application starts.
+31.3.2016 14:41:12: Multi to binary conversion.
+31.3.2016 14:41:12: The learners: PAUM
+31.3.2016 14:41:12: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:41:13: Application time for class: 178ms
+31.3.2016 14:41:13: The learning start at Thu Mar 31 14:41:13 CEST 2016
+31.3.2016 14:41:13: The number of documents in dataset: 1
+31.3.2016 14:41:13: This learning session finished!.
+31.3.2016 14:41:33: 
+*** A new run starts.
+31.3.2016 14:41:33: 
+The execution time (pre-processing the first document): Thu Mar 31 14:41:33 CEST 2016
+31.3.2016 14:41:33: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:41:33: 
+Application starts.
+31.3.2016 14:41:33: Multi to binary conversion.
+31.3.2016 14:41:33: The learners: PAUM
+31.3.2016 14:41:33: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:41:33: Application time for class: 118ms
+31.3.2016 14:41:33: The learning start at Thu Mar 31 14:41:33 CEST 2016
+31.3.2016 14:41:33: The number of documents in dataset: 1
+31.3.2016 14:41:33: This learning session finished!.
+31.3.2016 14:43:16: 
+*** A new run starts.
+31.3.2016 14:43:16: 
+The execution time (pre-processing the first document): Thu Mar 31 14:43:16 CEST 2016
+31.3.2016 14:43:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:43:16: 
+Application starts.
+31.3.2016 14:43:16: Multi to binary conversion.
+31.3.2016 14:43:16: The learners: PAUM
+31.3.2016 14:43:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:43:16: Application time for class: 157ms
+31.3.2016 14:43:16: The learning start at Thu Mar 31 14:43:16 CEST 2016
+31.3.2016 14:43:16: The number of documents in dataset: 1
+31.3.2016 14:43:16: This learning session finished!.
+31.3.2016 14:44:27: 
+*** A new run starts.
+31.3.2016 14:44:27: 
+The execution time (pre-processing the first document): Thu Mar 31 14:44:27 CEST 2016
+31.3.2016 14:44:27: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:44:27: 
+Application starts.
+31.3.2016 14:44:27: Multi to binary conversion.
+31.3.2016 14:44:27: The learners: PAUM
+31.3.2016 14:44:27: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:44:27: Application time for class: 136ms
+31.3.2016 14:44:27: The learning start at Thu Mar 31 14:44:27 CEST 2016
+31.3.2016 14:44:27: The number of documents in dataset: 1
+31.3.2016 14:44:27: This learning session finished!.
+31.3.2016 14:44:48: 
+
+*************************
+A new session for NLP learning is starting: 20160331_144448file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 196569secs ago)The initiliased time of NLP learning: Thu Mar 31 14:44:48 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 14:45:18: 
+*** A new run starts.
+31.3.2016 14:45:18: 
+The execution time (pre-processing the first document): Thu Mar 31 14:45:18 CEST 2016
+31.3.2016 14:45:18: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:45:18: Creating temp directory for application-mode files
+31.3.2016 14:45:18: 
+Application starts.
+31.3.2016 14:45:18: Multi to binary conversion.
+31.3.2016 14:45:18: The learners: PAUM
+31.3.2016 14:45:18: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:45:18: Application time for class: 193ms
+31.3.2016 14:45:18: The learning start at Thu Mar 31 14:45:18 CEST 2016
+31.3.2016 14:45:18: The number of documents in dataset: 1
+31.3.2016 14:45:18: This learning session finished!.
+31.3.2016 14:45:22: 
+*** A new run starts.
+31.3.2016 14:45:22: 
+The execution time (pre-processing the first document): Thu Mar 31 14:45:22 CEST 2016
+31.3.2016 14:45:22: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:45:22: 
+Application starts.
+31.3.2016 14:45:22: Multi to binary conversion.
+31.3.2016 14:45:22: The learners: PAUM
+31.3.2016 14:45:22: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:45:22: Application time for class: 164ms
+31.3.2016 14:45:22: The learning start at Thu Mar 31 14:45:22 CEST 2016
+31.3.2016 14:45:22: The number of documents in dataset: 1
+31.3.2016 14:45:22: This learning session finished!.
+31.3.2016 14:46:12: 
+
+*************************
+A new session for NLP learning is starting: 20160331_144611file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 196652secs ago)The initiliased time of NLP learning: Thu Mar 31 14:46:11 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:46:12: 
+
+*************************
+A new session for NLP learning is starting: 20160331_144612file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 196652secs ago)The initiliased time of NLP learning: Thu Mar 31 14:46:12 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:46:38: 
+*** A new run starts.
+31.3.2016 14:46:38: 
+The execution time (pre-processing the first document): Thu Mar 31 14:46:38 CEST 2016
+31.3.2016 14:46:38: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:46:38: Creating temp directory for application-mode files
+31.3.2016 14:46:38: 
+Application starts.
+31.3.2016 14:46:38: Multi to binary conversion.
+31.3.2016 14:46:38: The learners: PAUM
+31.3.2016 14:46:38: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:46:39: Application time for class: 714ms
+31.3.2016 14:46:39: The learning start at Thu Mar 31 14:46:39 CEST 2016
+31.3.2016 14:46:39: The number of documents in dataset: 1
+31.3.2016 14:46:39: This learning session finished!.
+31.3.2016 14:47:40: 
+*** A new run starts.
+31.3.2016 14:47:40: 
+The execution time (pre-processing the first document): Thu Mar 31 14:47:40 CEST 2016
+31.3.2016 14:47:40: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:47:40: 
+Application starts.
+31.3.2016 14:47:40: Multi to binary conversion.
+31.3.2016 14:47:40: The learners: PAUM
+31.3.2016 14:47:40: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:47:40: Application time for class: 209ms
+31.3.2016 14:47:40: The learning start at Thu Mar 31 14:47:40 CEST 2016
+31.3.2016 14:47:40: The number of documents in dataset: 1
+31.3.2016 14:47:40: This learning session finished!.
+31.3.2016 14:47:42: 
+*** A new run starts.
+31.3.2016 14:47:42: 
+The execution time (pre-processing the first document): Thu Mar 31 14:47:42 CEST 2016
+31.3.2016 14:47:42: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:47:42: 
+Application starts.
+31.3.2016 14:47:42: Multi to binary conversion.
+31.3.2016 14:47:42: The learners: PAUM
+31.3.2016 14:47:42: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:47:42: Application time for class: 189ms
+31.3.2016 14:47:42: The learning start at Thu Mar 31 14:47:42 CEST 2016
+31.3.2016 14:47:42: The number of documents in dataset: 1
+31.3.2016 14:47:42: This learning session finished!.
+31.3.2016 14:47:42: 
+*** A new run starts.
+31.3.2016 14:47:42: 
+The execution time (pre-processing the first document): Thu Mar 31 14:47:42 CEST 2016
+31.3.2016 14:47:42: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:47:42: 
+Application starts.
+31.3.2016 14:47:42: Multi to binary conversion.
+31.3.2016 14:47:42: The learners: PAUM
+31.3.2016 14:47:42: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:47:42: Application time for class: 192ms
+31.3.2016 14:47:42: The learning start at Thu Mar 31 14:47:42 CEST 2016
+31.3.2016 14:47:42: The number of documents in dataset: 1
+31.3.2016 14:47:42: This learning session finished!.
+31.3.2016 14:47:51: 
+*** A new run starts.
+31.3.2016 14:47:51: 
+The execution time (pre-processing the first document): Thu Mar 31 14:47:51 CEST 2016
+31.3.2016 14:47:51: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:47:51: 
+Application starts.
+31.3.2016 14:47:51: Multi to binary conversion.
+31.3.2016 14:47:51: The learners: PAUM
+31.3.2016 14:47:51: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:47:51: Application time for class: 161ms
+31.3.2016 14:47:51: The learning start at Thu Mar 31 14:47:51 CEST 2016
+31.3.2016 14:47:51: The number of documents in dataset: 1
+31.3.2016 14:47:51: This learning session finished!.
+31.3.2016 14:48:32: 
+
+*************************
+A new session for NLP learning is starting: 20160331_144831file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 196792secs ago)The initiliased time of NLP learning: Thu Mar 31 14:48:31 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:48:32: 
+
+*************************
+A new session for NLP learning is starting: 20160331_144832file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 196792secs ago)The initiliased time of NLP learning: Thu Mar 31 14:48:32 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:53:08: 
+*** A new run starts.
+31.3.2016 14:53:08: 
+The execution time (pre-processing the first document): Thu Mar 31 14:53:08 CEST 2016
+31.3.2016 14:53:08: ** Application mode for document from 0 to 1(not included):
+31.3.2016 14:53:08: Creating temp directory for application-mode files
+31.3.2016 14:53:08: 
+Application starts.
+31.3.2016 14:53:08: Multi to binary conversion.
+31.3.2016 14:53:08: The learners: PAUM
+31.3.2016 14:53:08: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 14:53:09: Application time for class: 525ms
+31.3.2016 14:53:09: The learning start at Thu Mar 31 14:53:09 CEST 2016
+31.3.2016 14:53:09: The number of documents in dataset: 1
+31.3.2016 14:53:09: This learning session finished!.
+31.3.2016 14:53:59: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145358file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197119secs ago)The initiliased time of NLP learning: Thu Mar 31 14:53:58 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:53:59: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145359file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197119secs ago)The initiliased time of NLP learning: Thu Mar 31 14:53:59 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:54:29: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145429file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197149secs ago)The initiliased time of NLP learning: Thu Mar 31 14:54:29 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:55:59: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145559file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197240secs ago)The initiliased time of NLP learning: Thu Mar 31 14:55:59 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:56:15: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145615file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197255secs ago)The initiliased time of NLP learning: Thu Mar 31 14:56:15 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:59:36: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145935file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197456secs ago)The initiliased time of NLP learning: Thu Mar 31 14:59:35 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:59:36: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145936file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197456secs ago)The initiliased time of NLP learning: Thu Mar 31 14:59:36 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 14:59:51: 
+
+*************************
+A new session for NLP learning is starting: 20160331_145951file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197471secs ago)The initiliased time of NLP learning: Thu Mar 31 14:59:51 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:00:36: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150036file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197517secs ago)The initiliased time of NLP learning: Thu Mar 31 15:00:36 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:04:39: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150438file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197759secs ago)The initiliased time of NLP learning: Thu Mar 31 15:04:38 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:04:39: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150439file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197759secs ago)The initiliased time of NLP learning: Thu Mar 31 15:04:39 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:06:32: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150632file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197872secs ago)The initiliased time of NLP learning: Thu Mar 31 15:06:32 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:06:32: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150632file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197873secs ago)The initiliased time of NLP learning: Thu Mar 31 15:06:32 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:06:47: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150647file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197887secs ago)The initiliased time of NLP learning: Thu Mar 31 15:06:47 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:06:47: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150647file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197888secs ago)The initiliased time of NLP learning: Thu Mar 31 15:06:47 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:07:43: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150743file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197943secs ago)The initiliased time of NLP learning: Thu Mar 31 15:07:43 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:07:59: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150759file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 197960secs ago)The initiliased time of NLP learning: Thu Mar 31 15:07:59 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:09:24: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150924file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 198044secs ago)The initiliased time of NLP learning: Thu Mar 31 15:09:24 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:09:24: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150924file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 198045secs ago)The initiliased time of NLP learning: Thu Mar 31 15:09:24 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:09:35: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150934file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 198055secs ago)The initiliased time of NLP learning: Thu Mar 31 15:09:34 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:09:35: 
+
+*************************
+A new session for NLP learning is starting: 20160331_150935file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 198055secs ago)The initiliased time of NLP learning: Thu Mar 31 15:09:35 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:10:16: 
+
+*************************
+A new session for NLP learning is starting: 20160331_151016file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 198097secs ago)The initiliased time of NLP learning: Thu Mar 31 15:10:16 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:15:53: 
+
+*************************
+A new session for NLP learning is starting: 20160331_151552file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 198433secs ago)The initiliased time of NLP learning: Thu Mar 31 15:15:52 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:15:53: 
+
+*************************
+A new session for NLP learning is starting: 20160331_151553file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 198433secs ago)The initiliased time of NLP learning: Thu Mar 31 15:15:53 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:15:56: 
+*** A new run starts.
+31.3.2016 15:15:56: 
+The execution time (pre-processing the first document): Thu Mar 31 15:15:56 CEST 2016
+31.3.2016 15:15:56: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:15:56: Creating temp directory for application-mode files
+31.3.2016 15:15:57: 
+Application starts.
+31.3.2016 15:15:57: Multi to binary conversion.
+31.3.2016 15:15:57: The learners: PAUM
+31.3.2016 15:15:57: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:15:57: Application time for class: 390ms
+31.3.2016 15:15:57: The learning start at Thu Mar 31 15:15:57 CEST 2016
+31.3.2016 15:15:57: The number of documents in dataset: 1
+31.3.2016 15:15:57: This learning session finished!.
+31.3.2016 15:16:03: 
+*** A new run starts.
+31.3.2016 15:16:03: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:03 CEST 2016
+31.3.2016 15:16:03: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:03: 
+Application starts.
+31.3.2016 15:16:03: Multi to binary conversion.
+31.3.2016 15:16:03: The learners: PAUM
+31.3.2016 15:16:03: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:04: Application time for class: 223ms
+31.3.2016 15:16:04: The learning start at Thu Mar 31 15:16:04 CEST 2016
+31.3.2016 15:16:04: The number of documents in dataset: 1
+31.3.2016 15:16:04: This learning session finished!.
+31.3.2016 15:16:08: 
+*** A new run starts.
+31.3.2016 15:16:08: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:08 CEST 2016
+31.3.2016 15:16:08: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:08: 
+Application starts.
+31.3.2016 15:16:08: Multi to binary conversion.
+31.3.2016 15:16:08: The learners: PAUM
+31.3.2016 15:16:08: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:08: Application time for class: 229ms
+31.3.2016 15:16:08: The learning start at Thu Mar 31 15:16:08 CEST 2016
+31.3.2016 15:16:08: The number of documents in dataset: 1
+31.3.2016 15:16:08: This learning session finished!.
+31.3.2016 15:16:08: 
+*** A new run starts.
+31.3.2016 15:16:08: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:08 CEST 2016
+31.3.2016 15:16:08: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:08: 
+Application starts.
+31.3.2016 15:16:08: Multi to binary conversion.
+31.3.2016 15:16:08: The learners: PAUM
+31.3.2016 15:16:08: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:08: Application time for class: 199ms
+31.3.2016 15:16:08: The learning start at Thu Mar 31 15:16:08 CEST 2016
+31.3.2016 15:16:08: The number of documents in dataset: 1
+31.3.2016 15:16:08: This learning session finished!.
+31.3.2016 15:16:09: 
+*** A new run starts.
+31.3.2016 15:16:09: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:09 CEST 2016
+31.3.2016 15:16:09: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:09: 
+Application starts.
+31.3.2016 15:16:09: Multi to binary conversion.
+31.3.2016 15:16:09: The learners: PAUM
+31.3.2016 15:16:09: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:09: Application time for class: 190ms
+31.3.2016 15:16:09: The learning start at Thu Mar 31 15:16:09 CEST 2016
+31.3.2016 15:16:09: The number of documents in dataset: 1
+31.3.2016 15:16:09: This learning session finished!.
+31.3.2016 15:16:09: 
+*** A new run starts.
+31.3.2016 15:16:09: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:09 CEST 2016
+31.3.2016 15:16:09: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:09: 
+Application starts.
+31.3.2016 15:16:09: Multi to binary conversion.
+31.3.2016 15:16:09: The learners: PAUM
+31.3.2016 15:16:09: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:09: Application time for class: 177ms
+31.3.2016 15:16:09: The learning start at Thu Mar 31 15:16:09 CEST 2016
+31.3.2016 15:16:09: The number of documents in dataset: 1
+31.3.2016 15:16:09: This learning session finished!.
+31.3.2016 15:16:09: 
+*** A new run starts.
+31.3.2016 15:16:09: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:09 CEST 2016
+31.3.2016 15:16:09: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:09: 
+Application starts.
+31.3.2016 15:16:09: Multi to binary conversion.
+31.3.2016 15:16:09: The learners: PAUM
+31.3.2016 15:16:09: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:10: Application time for class: 224ms
+31.3.2016 15:16:10: The learning start at Thu Mar 31 15:16:10 CEST 2016
+31.3.2016 15:16:10: The number of documents in dataset: 1
+31.3.2016 15:16:10: This learning session finished!.
+31.3.2016 15:16:10: 
+*** A new run starts.
+31.3.2016 15:16:10: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:10 CEST 2016
+31.3.2016 15:16:10: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:10: 
+Application starts.
+31.3.2016 15:16:10: Multi to binary conversion.
+31.3.2016 15:16:10: The learners: PAUM
+31.3.2016 15:16:10: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:10: Application time for class: 171ms
+31.3.2016 15:16:10: The learning start at Thu Mar 31 15:16:10 CEST 2016
+31.3.2016 15:16:10: The number of documents in dataset: 1
+31.3.2016 15:16:10: This learning session finished!.
+31.3.2016 15:16:14: 
+*** A new run starts.
+31.3.2016 15:16:14: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:14 CEST 2016
+31.3.2016 15:16:14: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:14: 
+Application starts.
+31.3.2016 15:16:14: Multi to binary conversion.
+31.3.2016 15:16:14: The learners: PAUM
+31.3.2016 15:16:14: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:14: Application time for class: 185ms
+31.3.2016 15:16:14: The learning start at Thu Mar 31 15:16:14 CEST 2016
+31.3.2016 15:16:14: The number of documents in dataset: 1
+31.3.2016 15:16:14: This learning session finished!.
+31.3.2016 15:16:15: 
+*** A new run starts.
+31.3.2016 15:16:15: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:15 CEST 2016
+31.3.2016 15:16:15: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:15: 
+Application starts.
+31.3.2016 15:16:15: Multi to binary conversion.
+31.3.2016 15:16:15: The learners: PAUM
+31.3.2016 15:16:15: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:15: Application time for class: 169ms
+31.3.2016 15:16:15: The learning start at Thu Mar 31 15:16:15 CEST 2016
+31.3.2016 15:16:15: The number of documents in dataset: 1
+31.3.2016 15:16:15: This learning session finished!.
+31.3.2016 15:16:15: 
+*** A new run starts.
+31.3.2016 15:16:15: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:15 CEST 2016
+31.3.2016 15:16:15: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:15: 
+Application starts.
+31.3.2016 15:16:15: Multi to binary conversion.
+31.3.2016 15:16:15: The learners: PAUM
+31.3.2016 15:16:15: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:15: Application time for class: 185ms
+31.3.2016 15:16:15: The learning start at Thu Mar 31 15:16:15 CEST 2016
+31.3.2016 15:16:15: The number of documents in dataset: 1
+31.3.2016 15:16:15: This learning session finished!.
+31.3.2016 15:16:15: 
+*** A new run starts.
+31.3.2016 15:16:15: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:15 CEST 2016
+31.3.2016 15:16:15: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:15: 
+Application starts.
+31.3.2016 15:16:15: Multi to binary conversion.
+31.3.2016 15:16:15: The learners: PAUM
+31.3.2016 15:16:15: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:15: Application time for class: 175ms
+31.3.2016 15:16:15: The learning start at Thu Mar 31 15:16:15 CEST 2016
+31.3.2016 15:16:15: The number of documents in dataset: 1
+31.3.2016 15:16:15: This learning session finished!.
+31.3.2016 15:16:15: 
+*** A new run starts.
+31.3.2016 15:16:15: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:15 CEST 2016
+31.3.2016 15:16:15: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:15: 
+Application starts.
+31.3.2016 15:16:15: Multi to binary conversion.
+31.3.2016 15:16:15: The learners: PAUM
+31.3.2016 15:16:15: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:16: Application time for class: 146ms
+31.3.2016 15:16:16: The learning start at Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: The number of documents in dataset: 1
+31.3.2016 15:16:16: This learning session finished!.
+31.3.2016 15:16:16: 
+*** A new run starts.
+31.3.2016 15:16:16: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:16: 
+Application starts.
+31.3.2016 15:16:16: Multi to binary conversion.
+31.3.2016 15:16:16: The learners: PAUM
+31.3.2016 15:16:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:16: Application time for class: 153ms
+31.3.2016 15:16:16: The learning start at Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: The number of documents in dataset: 1
+31.3.2016 15:16:16: This learning session finished!.
+31.3.2016 15:16:16: 
+*** A new run starts.
+31.3.2016 15:16:16: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:16: 
+Application starts.
+31.3.2016 15:16:16: Multi to binary conversion.
+31.3.2016 15:16:16: The learners: PAUM
+31.3.2016 15:16:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:16: Application time for class: 142ms
+31.3.2016 15:16:16: The learning start at Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: The number of documents in dataset: 1
+31.3.2016 15:16:16: This learning session finished!.
+31.3.2016 15:16:16: 
+*** A new run starts.
+31.3.2016 15:16:16: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:16: 
+Application starts.
+31.3.2016 15:16:16: Multi to binary conversion.
+31.3.2016 15:16:16: The learners: PAUM
+31.3.2016 15:16:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:16: Application time for class: 140ms
+31.3.2016 15:16:16: The learning start at Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: The number of documents in dataset: 1
+31.3.2016 15:16:16: This learning session finished!.
+31.3.2016 15:16:16: 
+*** A new run starts.
+31.3.2016 15:16:16: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:16: 
+Application starts.
+31.3.2016 15:16:16: Multi to binary conversion.
+31.3.2016 15:16:16: The learners: PAUM
+31.3.2016 15:16:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:16: Application time for class: 135ms
+31.3.2016 15:16:16: The learning start at Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: The number of documents in dataset: 1
+31.3.2016 15:16:16: This learning session finished!.
+31.3.2016 15:16:16: 
+*** A new run starts.
+31.3.2016 15:16:16: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:16: 
+Application starts.
+31.3.2016 15:16:16: Multi to binary conversion.
+31.3.2016 15:16:16: The learners: PAUM
+31.3.2016 15:16:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:16: Application time for class: 164ms
+31.3.2016 15:16:16: The learning start at Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: The number of documents in dataset: 1
+31.3.2016 15:16:16: This learning session finished!.
+31.3.2016 15:16:16: 
+*** A new run starts.
+31.3.2016 15:16:16: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:16 CEST 2016
+31.3.2016 15:16:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:16: 
+Application starts.
+31.3.2016 15:16:16: Multi to binary conversion.
+31.3.2016 15:16:16: The learners: PAUM
+31.3.2016 15:16:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:17: Application time for class: 171ms
+31.3.2016 15:16:17: The learning start at Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: The number of documents in dataset: 1
+31.3.2016 15:16:17: This learning session finished!.
+31.3.2016 15:16:17: 
+*** A new run starts.
+31.3.2016 15:16:17: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:17: 
+Application starts.
+31.3.2016 15:16:17: Multi to binary conversion.
+31.3.2016 15:16:17: The learners: PAUM
+31.3.2016 15:16:17: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:17: Application time for class: 158ms
+31.3.2016 15:16:17: The learning start at Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: The number of documents in dataset: 1
+31.3.2016 15:16:17: This learning session finished!.
+31.3.2016 15:16:17: 
+*** A new run starts.
+31.3.2016 15:16:17: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:17: 
+Application starts.
+31.3.2016 15:16:17: Multi to binary conversion.
+31.3.2016 15:16:17: The learners: PAUM
+31.3.2016 15:16:17: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:17: Application time for class: 166ms
+31.3.2016 15:16:17: The learning start at Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: The number of documents in dataset: 1
+31.3.2016 15:16:17: This learning session finished!.
+31.3.2016 15:16:17: 
+*** A new run starts.
+31.3.2016 15:16:17: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:17: 
+Application starts.
+31.3.2016 15:16:17: Multi to binary conversion.
+31.3.2016 15:16:17: The learners: PAUM
+31.3.2016 15:16:17: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:17: Application time for class: 158ms
+31.3.2016 15:16:17: The learning start at Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: The number of documents in dataset: 1
+31.3.2016 15:16:17: This learning session finished!.
+31.3.2016 15:16:17: 
+*** A new run starts.
+31.3.2016 15:16:17: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:17: 
+Application starts.
+31.3.2016 15:16:17: Multi to binary conversion.
+31.3.2016 15:16:17: The learners: PAUM
+31.3.2016 15:16:17: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:17: Application time for class: 120ms
+31.3.2016 15:16:17: The learning start at Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: The number of documents in dataset: 1
+31.3.2016 15:16:17: This learning session finished!.
+31.3.2016 15:16:17: 
+*** A new run starts.
+31.3.2016 15:16:17: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:17 CEST 2016
+31.3.2016 15:16:17: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:17: 
+Application starts.
+31.3.2016 15:16:17: Multi to binary conversion.
+31.3.2016 15:16:17: The learners: PAUM
+31.3.2016 15:16:17: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:18: Application time for class: 181ms
+31.3.2016 15:16:18: The learning start at Thu Mar 31 15:16:18 CEST 2016
+31.3.2016 15:16:18: The number of documents in dataset: 1
+31.3.2016 15:16:18: This learning session finished!.
+31.3.2016 15:16:18: 
+*** A new run starts.
+31.3.2016 15:16:18: 
+The execution time (pre-processing the first document): Thu Mar 31 15:16:18 CEST 2016
+31.3.2016 15:16:18: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:16:18: 
+Application starts.
+31.3.2016 15:16:18: Multi to binary conversion.
+31.3.2016 15:16:18: The learners: PAUM
+31.3.2016 15:16:18: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:16:18: Application time for class: 168ms
+31.3.2016 15:16:18: The learning start at Thu Mar 31 15:16:18 CEST 2016
+31.3.2016 15:16:18: The number of documents in dataset: 1
+31.3.2016 15:16:18: This learning session finished!.
+31.3.2016 15:21:10: 
+*** A new run starts.
+31.3.2016 15:21:10: 
+The execution time (pre-processing the first document): Thu Mar 31 15:21:10 CEST 2016
+31.3.2016 15:21:10: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:21:10: 
+Application starts.
+31.3.2016 15:21:10: Multi to binary conversion.
+31.3.2016 15:21:10: The learners: PAUM
+31.3.2016 15:21:10: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:21:10: Application time for class: 195ms
+31.3.2016 15:21:10: The learning start at Thu Mar 31 15:21:10 CEST 2016
+31.3.2016 15:21:10: The number of documents in dataset: 1
+31.3.2016 15:21:10: This learning session finished!.
+31.3.2016 15:21:11: 
+*** A new run starts.
+31.3.2016 15:21:11: 
+The execution time (pre-processing the first document): Thu Mar 31 15:21:11 CEST 2016
+31.3.2016 15:21:11: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:21:11: 
+Application starts.
+31.3.2016 15:21:11: Multi to binary conversion.
+31.3.2016 15:21:11: The learners: PAUM
+31.3.2016 15:21:11: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:21:12: Application time for class: 192ms
+31.3.2016 15:21:12: The learning start at Thu Mar 31 15:21:12 CEST 2016
+31.3.2016 15:21:12: The number of documents in dataset: 1
+31.3.2016 15:21:12: This learning session finished!.
+31.3.2016 15:21:12: 
+*** A new run starts.
+31.3.2016 15:21:12: 
+The execution time (pre-processing the first document): Thu Mar 31 15:21:12 CEST 2016
+31.3.2016 15:21:12: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:21:12: 
+Application starts.
+31.3.2016 15:21:12: Multi to binary conversion.
+31.3.2016 15:21:12: The learners: PAUM
+31.3.2016 15:21:12: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:21:12: Application time for class: 183ms
+31.3.2016 15:21:12: The learning start at Thu Mar 31 15:21:12 CEST 2016
+31.3.2016 15:21:12: The number of documents in dataset: 1
+31.3.2016 15:21:12: This learning session finished!.
+31.3.2016 15:21:14: 
+*** A new run starts.
+31.3.2016 15:21:14: 
+The execution time (pre-processing the first document): Thu Mar 31 15:21:14 CEST 2016
+31.3.2016 15:21:14: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:21:14: 
+Application starts.
+31.3.2016 15:21:14: Multi to binary conversion.
+31.3.2016 15:21:14: The learners: PAUM
+31.3.2016 15:21:14: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:21:14: Application time for class: 215ms
+31.3.2016 15:21:14: The learning start at Thu Mar 31 15:21:14 CEST 2016
+31.3.2016 15:21:14: The number of documents in dataset: 1
+31.3.2016 15:21:14: This learning session finished!.
+31.3.2016 15:24:36: 
+*** A new run starts.
+31.3.2016 15:24:36: 
+The execution time (pre-processing the first document): Thu Mar 31 15:24:36 CEST 2016
+31.3.2016 15:24:36: ** Application mode for document from 0 to 1(not included):
+31.3.2016 15:24:37: 
+Application starts.
+31.3.2016 15:24:37: Multi to binary conversion.
+31.3.2016 15:24:37: The learners: PAUM
+31.3.2016 15:24:37: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 15:24:37: Application time for class: 667ms
+31.3.2016 15:24:37: The learning start at Thu Mar 31 15:24:37 CEST 2016
+31.3.2016 15:24:37: The number of documents in dataset: 1
+31.3.2016 15:24:37: This learning session finished!.
+31.3.2016 15:27:18: 
+
+*************************
+A new session for NLP learning is starting: 20160331_152718file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199118secs ago)The initiliased time of NLP learning: Thu Mar 31 15:27:18 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:27:18: 
+
+*************************
+A new session for NLP learning is starting: 20160331_152718file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199119secs ago)The initiliased time of NLP learning: Thu Mar 31 15:27:18 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:32:14: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153214file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199414secs ago)The initiliased time of NLP learning: Thu Mar 31 15:32:14 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:32:58: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153258file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199458secs ago)The initiliased time of NLP learning: Thu Mar 31 15:32:58 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:34:23: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153423file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199543secs ago)The initiliased time of NLP learning: Thu Mar 31 15:34:23 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:34:43: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153443file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199563secs ago)The initiliased time of NLP learning: Thu Mar 31 15:34:43 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:34:43: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153443file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199564secs ago)The initiliased time of NLP learning: Thu Mar 31 15:34:43 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:35:22: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153521file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199602secs ago)The initiliased time of NLP learning: Thu Mar 31 15:35:21 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:35:22: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153522file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199602secs ago)The initiliased time of NLP learning: Thu Mar 31 15:35:22 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:35:50: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153549file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199630secs ago)The initiliased time of NLP learning: Thu Mar 31 15:35:49 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:35:51: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153550file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199631secs ago)The initiliased time of NLP learning: Thu Mar 31 15:35:50 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:36:21: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153621file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199661secs ago)The initiliased time of NLP learning: Thu Mar 31 15:36:21 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:37:00: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153659file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199700secs ago)The initiliased time of NLP learning: Thu Mar 31 15:36:59 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 15:37:01: 
+
+*************************
+A new session for NLP learning is starting: 20160331_153700file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 199700secs ago)The initiliased time of NLP learning: Thu Mar 31 15:37:00 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 17:24:21: 
+
+*************************
+A new session for NLP learning is starting: 20160331_172421file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 206141secs ago)The initiliased time of NLP learning: Thu Mar 31 17:24:21 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 17:24:21: 
+
+*************************
+A new session for NLP learning is starting: 20160331_172421file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 206142secs ago)The initiliased time of NLP learning: Thu Mar 31 17:24:21 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 17:24:22: 
+*** A new run starts.
+31.3.2016 17:24:22: 
+The execution time (pre-processing the first document): Thu Mar 31 17:24:22 CEST 2016
+31.3.2016 17:24:22: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:24:22: Creating temp directory for application-mode files
+31.3.2016 17:24:22: 
+Application starts.
+31.3.2016 17:24:22: Multi to binary conversion.
+31.3.2016 17:24:22: The learners: PAUM
+31.3.2016 17:24:22: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:24:23: Application time for class: 421ms
+31.3.2016 17:24:23: The learning start at Thu Mar 31 17:24:23 CEST 2016
+31.3.2016 17:24:23: The number of documents in dataset: 1
+31.3.2016 17:24:23: This learning session finished!.
+31.3.2016 17:24:26: 
+*** A new run starts.
+31.3.2016 17:24:26: 
+The execution time (pre-processing the first document): Thu Mar 31 17:24:26 CEST 2016
+31.3.2016 17:24:26: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:24:26: 
+Application starts.
+31.3.2016 17:24:26: Multi to binary conversion.
+31.3.2016 17:24:26: The learners: PAUM
+31.3.2016 17:24:26: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:24:26: Application time for class: 195ms
+31.3.2016 17:24:26: The learning start at Thu Mar 31 17:24:26 CEST 2016
+31.3.2016 17:24:26: The number of documents in dataset: 1
+31.3.2016 17:24:26: This learning session finished!.
+31.3.2016 17:25:53: 
+*** A new run starts.
+31.3.2016 17:25:53: 
+The execution time (pre-processing the first document): Thu Mar 31 17:25:53 CEST 2016
+31.3.2016 17:25:53: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:25:53: 
+Application starts.
+31.3.2016 17:25:53: Multi to binary conversion.
+31.3.2016 17:25:53: The learners: PAUM
+31.3.2016 17:25:53: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:25:54: Application time for class: 213ms
+31.3.2016 17:25:54: The learning start at Thu Mar 31 17:25:54 CEST 2016
+31.3.2016 17:25:54: The number of documents in dataset: 1
+31.3.2016 17:25:54: This learning session finished!.
+31.3.2016 17:26:27: 
+*** A new run starts.
+31.3.2016 17:26:27: 
+The execution time (pre-processing the first document): Thu Mar 31 17:26:27 CEST 2016
+31.3.2016 17:26:27: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:26:27: 
+Application starts.
+31.3.2016 17:26:27: Multi to binary conversion.
+31.3.2016 17:26:27: The learners: PAUM
+31.3.2016 17:26:27: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:26:27: Application time for class: 202ms
+31.3.2016 17:26:27: The learning start at Thu Mar 31 17:26:27 CEST 2016
+31.3.2016 17:26:27: The number of documents in dataset: 1
+31.3.2016 17:26:27: This learning session finished!.
+31.3.2016 17:27:13: 
+*** A new run starts.
+31.3.2016 17:27:13: 
+The execution time (pre-processing the first document): Thu Mar 31 17:27:13 CEST 2016
+31.3.2016 17:27:13: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:27:13: 
+Application starts.
+31.3.2016 17:27:13: Multi to binary conversion.
+31.3.2016 17:27:13: The learners: PAUM
+31.3.2016 17:27:13: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:27:13: Application time for class: 185ms
+31.3.2016 17:27:13: The learning start at Thu Mar 31 17:27:13 CEST 2016
+31.3.2016 17:27:13: The number of documents in dataset: 1
+31.3.2016 17:27:13: This learning session finished!.
+31.3.2016 17:27:34: 
+*** A new run starts.
+31.3.2016 17:27:34: 
+The execution time (pre-processing the first document): Thu Mar 31 17:27:34 CEST 2016
+31.3.2016 17:27:34: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:27:34: 
+Application starts.
+31.3.2016 17:27:34: Multi to binary conversion.
+31.3.2016 17:27:34: The learners: PAUM
+31.3.2016 17:27:34: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:27:34: Application time for class: 138ms
+31.3.2016 17:27:34: The learning start at Thu Mar 31 17:27:34 CEST 2016
+31.3.2016 17:27:34: The number of documents in dataset: 1
+31.3.2016 17:27:34: This learning session finished!.
+31.3.2016 17:27:48: 
+*** A new run starts.
+31.3.2016 17:27:48: 
+The execution time (pre-processing the first document): Thu Mar 31 17:27:48 CEST 2016
+31.3.2016 17:27:48: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:27:48: 
+Application starts.
+31.3.2016 17:27:48: Multi to binary conversion.
+31.3.2016 17:27:48: The learners: PAUM
+31.3.2016 17:27:48: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:27:48: Application time for class: 155ms
+31.3.2016 17:27:48: The learning start at Thu Mar 31 17:27:48 CEST 2016
+31.3.2016 17:27:48: The number of documents in dataset: 1
+31.3.2016 17:27:48: This learning session finished!.
+31.3.2016 17:28:10: 
+*** A new run starts.
+31.3.2016 17:28:10: 
+The execution time (pre-processing the first document): Thu Mar 31 17:28:10 CEST 2016
+31.3.2016 17:28:10: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:28:10: 
+Application starts.
+31.3.2016 17:28:10: Multi to binary conversion.
+31.3.2016 17:28:10: The learners: PAUM
+31.3.2016 17:28:10: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:28:10: Application time for class: 149ms
+31.3.2016 17:28:10: The learning start at Thu Mar 31 17:28:10 CEST 2016
+31.3.2016 17:28:10: The number of documents in dataset: 1
+31.3.2016 17:28:10: This learning session finished!.
+31.3.2016 17:28:12: 
+*** A new run starts.
+31.3.2016 17:28:12: 
+The execution time (pre-processing the first document): Thu Mar 31 17:28:12 CEST 2016
+31.3.2016 17:28:12: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:28:12: 
+Application starts.
+31.3.2016 17:28:12: Multi to binary conversion.
+31.3.2016 17:28:12: The learners: PAUM
+31.3.2016 17:28:12: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:28:13: Application time for class: 159ms
+31.3.2016 17:28:13: The learning start at Thu Mar 31 17:28:13 CEST 2016
+31.3.2016 17:28:13: The number of documents in dataset: 1
+31.3.2016 17:28:13: This learning session finished!.
+31.3.2016 17:28:24: 
+*** A new run starts.
+31.3.2016 17:28:24: 
+The execution time (pre-processing the first document): Thu Mar 31 17:28:24 CEST 2016
+31.3.2016 17:28:24: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:28:24: 
+Application starts.
+31.3.2016 17:28:24: Multi to binary conversion.
+31.3.2016 17:28:24: The learners: PAUM
+31.3.2016 17:28:24: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:28:24: Application time for class: 205ms
+31.3.2016 17:28:24: The learning start at Thu Mar 31 17:28:24 CEST 2016
+31.3.2016 17:28:24: The number of documents in dataset: 1
+31.3.2016 17:28:24: This learning session finished!.
+31.3.2016 17:28:58: 
+
+*************************
+A new session for NLP learning is starting: 20160331_172858file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 206419secs ago)The initiliased time of NLP learning: Thu Mar 31 17:28:58 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 17:28:59: 
+
+*************************
+A new session for NLP learning is starting: 20160331_172859file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 206419secs ago)The initiliased time of NLP learning: Thu Mar 31 17:28:59 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 17:29:00: 
+*** A new run starts.
+31.3.2016 17:29:00: 
+The execution time (pre-processing the first document): Thu Mar 31 17:29:00 CEST 2016
+31.3.2016 17:29:00: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:29:00: Creating temp directory for application-mode files
+31.3.2016 17:29:00: 
+Application starts.
+31.3.2016 17:29:00: Multi to binary conversion.
+31.3.2016 17:29:00: The learners: PAUM
+31.3.2016 17:29:00: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:29:00: Application time for class: 265ms
+31.3.2016 17:29:00: The learning start at Thu Mar 31 17:29:00 CEST 2016
+31.3.2016 17:29:00: The number of documents in dataset: 1
+31.3.2016 17:29:00: This learning session finished!.
+31.3.2016 17:29:20: 
+*** A new run starts.
+31.3.2016 17:29:20: 
+The execution time (pre-processing the first document): Thu Mar 31 17:29:20 CEST 2016
+31.3.2016 17:29:20: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:29:20: 
+Application starts.
+31.3.2016 17:29:20: Multi to binary conversion.
+31.3.2016 17:29:20: The learners: PAUM
+31.3.2016 17:29:20: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:29:21: Application time for class: 224ms
+31.3.2016 17:29:21: The learning start at Thu Mar 31 17:29:21 CEST 2016
+31.3.2016 17:29:21: The number of documents in dataset: 1
+31.3.2016 17:29:21: This learning session finished!.
+31.3.2016 17:29:39: 
+*** A new run starts.
+31.3.2016 17:29:39: 
+The execution time (pre-processing the first document): Thu Mar 31 17:29:39 CEST 2016
+31.3.2016 17:29:39: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:29:39: 
+Application starts.
+31.3.2016 17:29:39: Multi to binary conversion.
+31.3.2016 17:29:39: The learners: PAUM
+31.3.2016 17:29:39: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:29:39: Application time for class: 202ms
+31.3.2016 17:29:39: The learning start at Thu Mar 31 17:29:39 CEST 2016
+31.3.2016 17:29:39: The number of documents in dataset: 1
+31.3.2016 17:29:39: This learning session finished!.
+31.3.2016 17:29:52: 
+*** A new run starts.
+31.3.2016 17:29:52: 
+The execution time (pre-processing the first document): Thu Mar 31 17:29:52 CEST 2016
+31.3.2016 17:29:52: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:29:53: 
+Application starts.
+31.3.2016 17:29:53: Multi to binary conversion.
+31.3.2016 17:29:53: The learners: PAUM
+31.3.2016 17:29:53: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:29:53: Application time for class: 142ms
+31.3.2016 17:29:53: The learning start at Thu Mar 31 17:29:53 CEST 2016
+31.3.2016 17:29:53: The number of documents in dataset: 1
+31.3.2016 17:29:53: This learning session finished!.
+31.3.2016 17:30:03: 
+*** A new run starts.
+31.3.2016 17:30:03: 
+The execution time (pre-processing the first document): Thu Mar 31 17:30:03 CEST 2016
+31.3.2016 17:30:03: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:30:03: 
+Application starts.
+31.3.2016 17:30:03: Multi to binary conversion.
+31.3.2016 17:30:03: The learners: PAUM
+31.3.2016 17:30:03: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:30:03: Application time for class: 175ms
+31.3.2016 17:30:03: The learning start at Thu Mar 31 17:30:03 CEST 2016
+31.3.2016 17:30:03: The number of documents in dataset: 1
+31.3.2016 17:30:03: This learning session finished!.
+31.3.2016 17:30:24: 
+*** A new run starts.
+31.3.2016 17:30:24: 
+The execution time (pre-processing the first document): Thu Mar 31 17:30:24 CEST 2016
+31.3.2016 17:30:24: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:30:24: 
+Application starts.
+31.3.2016 17:30:24: Multi to binary conversion.
+31.3.2016 17:30:24: The learners: PAUM
+31.3.2016 17:30:24: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:30:24: Application time for class: 181ms
+31.3.2016 17:30:24: The learning start at Thu Mar 31 17:30:24 CEST 2016
+31.3.2016 17:30:24: The number of documents in dataset: 1
+31.3.2016 17:30:24: This learning session finished!.
+31.3.2016 17:30:25: 
+*** A new run starts.
+31.3.2016 17:30:25: 
+The execution time (pre-processing the first document): Thu Mar 31 17:30:25 CEST 2016
+31.3.2016 17:30:25: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:30:25: 
+Application starts.
+31.3.2016 17:30:25: Multi to binary conversion.
+31.3.2016 17:30:25: The learners: PAUM
+31.3.2016 17:30:25: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:30:25: Application time for class: 185ms
+31.3.2016 17:30:25: The learning start at Thu Mar 31 17:30:25 CEST 2016
+31.3.2016 17:30:25: The number of documents in dataset: 1
+31.3.2016 17:30:25: This learning session finished!.
+31.3.2016 17:30:25: 
+*** A new run starts.
+31.3.2016 17:30:25: 
+The execution time (pre-processing the first document): Thu Mar 31 17:30:25 CEST 2016
+31.3.2016 17:30:25: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:30:25: 
+Application starts.
+31.3.2016 17:30:25: Multi to binary conversion.
+31.3.2016 17:30:25: The learners: PAUM
+31.3.2016 17:30:25: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:30:26: Application time for class: 193ms
+31.3.2016 17:30:26: The learning start at Thu Mar 31 17:30:26 CEST 2016
+31.3.2016 17:30:26: The number of documents in dataset: 1
+31.3.2016 17:30:26: This learning session finished!.
+31.3.2016 17:41:29: 
+
+*************************
+A new session for NLP learning is starting: 20160331_174129file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 207170secs ago)The initiliased time of NLP learning: Thu Mar 31 17:41:29 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 17:41:56: 
+*** A new run starts.
+31.3.2016 17:41:56: 
+The execution time (pre-processing the first document): Thu Mar 31 17:41:56 CEST 2016
+31.3.2016 17:41:56: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:41:56: Creating temp directory for application-mode files
+31.3.2016 17:41:56: 
+Application starts.
+31.3.2016 17:41:56: Multi to binary conversion.
+31.3.2016 17:41:57: The learners: PAUM
+31.3.2016 17:41:57: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:41:57: Application time for class: 161ms
+31.3.2016 17:41:57: The learning start at Thu Mar 31 17:41:57 CEST 2016
+31.3.2016 17:41:57: The number of documents in dataset: 1
+31.3.2016 17:41:57: This learning session finished!.
+31.3.2016 17:42:06: 
+*** A new run starts.
+31.3.2016 17:42:06: 
+The execution time (pre-processing the first document): Thu Mar 31 17:42:06 CEST 2016
+31.3.2016 17:42:06: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:42:06: 
+Application starts.
+31.3.2016 17:42:06: Multi to binary conversion.
+31.3.2016 17:42:06: The learners: PAUM
+31.3.2016 17:42:06: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:42:06: Application time for class: 138ms
+31.3.2016 17:42:06: The learning start at Thu Mar 31 17:42:06 CEST 2016
+31.3.2016 17:42:06: The number of documents in dataset: 1
+31.3.2016 17:42:06: This learning session finished!.
+31.3.2016 17:42:13: 
+*** A new run starts.
+31.3.2016 17:42:13: 
+The execution time (pre-processing the first document): Thu Mar 31 17:42:13 CEST 2016
+31.3.2016 17:42:13: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:42:13: 
+Application starts.
+31.3.2016 17:42:13: Multi to binary conversion.
+31.3.2016 17:42:13: The learners: PAUM
+31.3.2016 17:42:13: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:42:14: Application time for class: 145ms
+31.3.2016 17:42:14: The learning start at Thu Mar 31 17:42:14 CEST 2016
+31.3.2016 17:42:14: The number of documents in dataset: 1
+31.3.2016 17:42:14: This learning session finished!.
+31.3.2016 17:42:19: 
+*** A new run starts.
+31.3.2016 17:42:19: 
+The execution time (pre-processing the first document): Thu Mar 31 17:42:19 CEST 2016
+31.3.2016 17:42:19: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:42:19: 
+Application starts.
+31.3.2016 17:42:19: Multi to binary conversion.
+31.3.2016 17:42:19: The learners: PAUM
+31.3.2016 17:42:19: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:42:19: Application time for class: 142ms
+31.3.2016 17:42:19: The learning start at Thu Mar 31 17:42:19 CEST 2016
+31.3.2016 17:42:19: The number of documents in dataset: 1
+31.3.2016 17:42:19: This learning session finished!.
+31.3.2016 17:42:28: 
+*** A new run starts.
+31.3.2016 17:42:28: 
+The execution time (pre-processing the first document): Thu Mar 31 17:42:28 CEST 2016
+31.3.2016 17:42:28: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:42:28: 
+Application starts.
+31.3.2016 17:42:28: Multi to binary conversion.
+31.3.2016 17:42:28: The learners: PAUM
+31.3.2016 17:42:28: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:42:28: Application time for class: 131ms
+31.3.2016 17:42:28: The learning start at Thu Mar 31 17:42:28 CEST 2016
+31.3.2016 17:42:28: The number of documents in dataset: 1
+31.3.2016 17:42:28: This learning session finished!.
+31.3.2016 17:42:33: 
+*** A new run starts.
+31.3.2016 17:42:33: 
+The execution time (pre-processing the first document): Thu Mar 31 17:42:33 CEST 2016
+31.3.2016 17:42:33: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:42:33: 
+Application starts.
+31.3.2016 17:42:33: Multi to binary conversion.
+31.3.2016 17:42:33: The learners: PAUM
+31.3.2016 17:42:33: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:42:34: Application time for class: 169ms
+31.3.2016 17:42:34: The learning start at Thu Mar 31 17:42:34 CEST 2016
+31.3.2016 17:42:34: The number of documents in dataset: 1
+31.3.2016 17:42:34: This learning session finished!.
+31.3.2016 17:43:04: 
+*** A new run starts.
+31.3.2016 17:43:04: 
+The execution time (pre-processing the first document): Thu Mar 31 17:43:04 CEST 2016
+31.3.2016 17:43:04: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:43:04: 
+Application starts.
+31.3.2016 17:43:04: Multi to binary conversion.
+31.3.2016 17:43:04: The learners: PAUM
+31.3.2016 17:43:04: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:43:05: Application time for class: 178ms
+31.3.2016 17:43:05: The learning start at Thu Mar 31 17:43:05 CEST 2016
+31.3.2016 17:43:05: The number of documents in dataset: 1
+31.3.2016 17:43:05: This learning session finished!.
+31.3.2016 17:44:04: 
+
+*************************
+A new session for NLP learning is starting: 20160331_174404file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 207325secs ago)The initiliased time of NLP learning: Thu Mar 31 17:44:04 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 17:44:05: 
+*** A new run starts.
+31.3.2016 17:44:05: 
+The execution time (pre-processing the first document): Thu Mar 31 17:44:05 CEST 2016
+31.3.2016 17:44:05: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:44:05: Creating temp directory for application-mode files
+31.3.2016 17:44:05: 
+Application starts.
+31.3.2016 17:44:05: Multi to binary conversion.
+31.3.2016 17:44:05: The learners: PAUM
+31.3.2016 17:44:05: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:44:05: Application time for class: 185ms
+31.3.2016 17:44:05: The learning start at Thu Mar 31 17:44:05 CEST 2016
+31.3.2016 17:44:05: The number of documents in dataset: 1
+31.3.2016 17:44:05: This learning session finished!.
+31.3.2016 17:44:41: 
+*** A new run starts.
+31.3.2016 17:44:41: 
+The execution time (pre-processing the first document): Thu Mar 31 17:44:41 CEST 2016
+31.3.2016 17:44:41: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:44:41: 
+Application starts.
+31.3.2016 17:44:41: Multi to binary conversion.
+31.3.2016 17:44:41: The learners: PAUM
+31.3.2016 17:44:41: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:44:41: Application time for class: 208ms
+31.3.2016 17:44:41: The learning start at Thu Mar 31 17:44:41 CEST 2016
+31.3.2016 17:44:41: The number of documents in dataset: 1
+31.3.2016 17:44:41: This learning session finished!.
+31.3.2016 17:46:13: 
+*** A new run starts.
+31.3.2016 17:46:13: 
+The execution time (pre-processing the first document): Thu Mar 31 17:46:13 CEST 2016
+31.3.2016 17:46:13: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:46:13: 
+Application starts.
+31.3.2016 17:46:13: Multi to binary conversion.
+31.3.2016 17:46:13: The learners: PAUM
+31.3.2016 17:46:13: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:46:13: Application time for class: 170ms
+31.3.2016 17:46:13: The learning start at Thu Mar 31 17:46:13 CEST 2016
+31.3.2016 17:46:13: The number of documents in dataset: 1
+31.3.2016 17:46:13: This learning session finished!.
+31.3.2016 17:46:46: 
+*** A new run starts.
+31.3.2016 17:46:46: 
+The execution time (pre-processing the first document): Thu Mar 31 17:46:46 CEST 2016
+31.3.2016 17:46:46: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:46:46: 
+Application starts.
+31.3.2016 17:46:46: Multi to binary conversion.
+31.3.2016 17:46:46: The learners: PAUM
+31.3.2016 17:46:46: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:46:47: Application time for class: 178ms
+31.3.2016 17:46:47: The learning start at Thu Mar 31 17:46:47 CEST 2016
+31.3.2016 17:46:47: The number of documents in dataset: 1
+31.3.2016 17:46:47: This learning session finished!.
+31.3.2016 17:47:06: 
+*** A new run starts.
+31.3.2016 17:47:06: 
+The execution time (pre-processing the first document): Thu Mar 31 17:47:06 CEST 2016
+31.3.2016 17:47:06: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:47:06: 
+Application starts.
+31.3.2016 17:47:06: Multi to binary conversion.
+31.3.2016 17:47:06: The learners: PAUM
+31.3.2016 17:47:06: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:47:06: Application time for class: 190ms
+31.3.2016 17:47:06: The learning start at Thu Mar 31 17:47:06 CEST 2016
+31.3.2016 17:47:06: The number of documents in dataset: 1
+31.3.2016 17:47:06: This learning session finished!.
+31.3.2016 17:47:15: 
+*** A new run starts.
+31.3.2016 17:47:15: 
+The execution time (pre-processing the first document): Thu Mar 31 17:47:15 CEST 2016
+31.3.2016 17:47:15: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:47:15: 
+Application starts.
+31.3.2016 17:47:15: Multi to binary conversion.
+31.3.2016 17:47:15: The learners: PAUM
+31.3.2016 17:47:15: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:47:15: Application time for class: 142ms
+31.3.2016 17:47:15: The learning start at Thu Mar 31 17:47:15 CEST 2016
+31.3.2016 17:47:15: The number of documents in dataset: 1
+31.3.2016 17:47:15: This learning session finished!.
+31.3.2016 17:47:56: 
+
+*************************
+A new session for NLP learning is starting: 20160331_174756file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 207557secs ago)The initiliased time of NLP learning: Thu Mar 31 17:47:56 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 17:47:57: 
+*** A new run starts.
+31.3.2016 17:47:57: 
+The execution time (pre-processing the first document): Thu Mar 31 17:47:57 CEST 2016
+31.3.2016 17:47:57: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:47:57: Creating temp directory for application-mode files
+31.3.2016 17:47:57: 
+Application starts.
+31.3.2016 17:47:57: Multi to binary conversion.
+31.3.2016 17:47:58: The learners: PAUM
+31.3.2016 17:47:58: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:47:59: Application time for class: 1328ms
+31.3.2016 17:47:59: The learning start at Thu Mar 31 17:47:59 CEST 2016
+31.3.2016 17:47:59: The number of documents in dataset: 1
+31.3.2016 17:47:59: This learning session finished!.
+31.3.2016 17:48:03: 
+*** A new run starts.
+31.3.2016 17:48:03: 
+The execution time (pre-processing the first document): Thu Mar 31 17:48:03 CEST 2016
+31.3.2016 17:48:03: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:48:03: 
+Application starts.
+31.3.2016 17:48:03: Multi to binary conversion.
+31.3.2016 17:48:03: The learners: PAUM
+31.3.2016 17:48:03: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:48:03: Application time for class: 218ms
+31.3.2016 17:48:03: The learning start at Thu Mar 31 17:48:03 CEST 2016
+31.3.2016 17:48:03: The number of documents in dataset: 1
+31.3.2016 17:48:03: This learning session finished!.
+31.3.2016 17:48:04: 
+*** A new run starts.
+31.3.2016 17:48:04: 
+The execution time (pre-processing the first document): Thu Mar 31 17:48:04 CEST 2016
+31.3.2016 17:48:04: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:48:04: 
+Application starts.
+31.3.2016 17:48:04: Multi to binary conversion.
+31.3.2016 17:48:04: The learners: PAUM
+31.3.2016 17:48:04: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:48:04: Application time for class: 169ms
+31.3.2016 17:48:04: The learning start at Thu Mar 31 17:48:04 CEST 2016
+31.3.2016 17:48:04: The number of documents in dataset: 1
+31.3.2016 17:48:04: This learning session finished!.
+31.3.2016 17:48:32: 
+*** A new run starts.
+31.3.2016 17:48:32: 
+The execution time (pre-processing the first document): Thu Mar 31 17:48:32 CEST 2016
+31.3.2016 17:48:32: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:48:32: 
+Application starts.
+31.3.2016 17:48:32: Multi to binary conversion.
+31.3.2016 17:48:32: The learners: PAUM
+31.3.2016 17:48:32: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:48:32: Application time for class: 196ms
+31.3.2016 17:48:32: The learning start at Thu Mar 31 17:48:32 CEST 2016
+31.3.2016 17:48:32: The number of documents in dataset: 1
+31.3.2016 17:48:32: This learning session finished!.
+31.3.2016 17:48:40: 
+*** A new run starts.
+31.3.2016 17:48:40: 
+The execution time (pre-processing the first document): Thu Mar 31 17:48:40 CEST 2016
+31.3.2016 17:48:40: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:48:40: 
+Application starts.
+31.3.2016 17:48:40: Multi to binary conversion.
+31.3.2016 17:48:40: The learners: PAUM
+31.3.2016 17:48:40: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:48:40: Application time for class: 202ms
+31.3.2016 17:48:40: The learning start at Thu Mar 31 17:48:40 CEST 2016
+31.3.2016 17:48:40: The number of documents in dataset: 1
+31.3.2016 17:48:40: This learning session finished!.
+31.3.2016 17:49:07: 
+*** A new run starts.
+31.3.2016 17:49:07: 
+The execution time (pre-processing the first document): Thu Mar 31 17:49:07 CEST 2016
+31.3.2016 17:49:07: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:49:07: 
+Application starts.
+31.3.2016 17:49:07: Multi to binary conversion.
+31.3.2016 17:49:07: The learners: PAUM
+31.3.2016 17:49:07: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:49:07: Application time for class: 153ms
+31.3.2016 17:49:07: The learning start at Thu Mar 31 17:49:07 CEST 2016
+31.3.2016 17:49:07: The number of documents in dataset: 1
+31.3.2016 17:49:07: This learning session finished!.
+31.3.2016 17:51:42: 
+*** A new run starts.
+31.3.2016 17:51:42: 
+The execution time (pre-processing the first document): Thu Mar 31 17:51:42 CEST 2016
+31.3.2016 17:51:42: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:51:42: 
+Application starts.
+31.3.2016 17:51:42: Multi to binary conversion.
+31.3.2016 17:51:42: The learners: PAUM
+31.3.2016 17:51:42: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:51:42: Application time for class: 185ms
+31.3.2016 17:51:42: The learning start at Thu Mar 31 17:51:42 CEST 2016
+31.3.2016 17:51:42: The number of documents in dataset: 1
+31.3.2016 17:51:42: This learning session finished!.
+31.3.2016 17:51:53: 
+*** A new run starts.
+31.3.2016 17:51:53: 
+The execution time (pre-processing the first document): Thu Mar 31 17:51:53 CEST 2016
+31.3.2016 17:51:53: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:51:53: 
+Application starts.
+31.3.2016 17:51:53: Multi to binary conversion.
+31.3.2016 17:51:53: The learners: PAUM
+31.3.2016 17:51:53: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:51:53: Application time for class: 166ms
+31.3.2016 17:51:53: The learning start at Thu Mar 31 17:51:53 CEST 2016
+31.3.2016 17:51:53: The number of documents in dataset: 1
+31.3.2016 17:51:53: This learning session finished!.
+31.3.2016 17:52:07: 
+*** A new run starts.
+31.3.2016 17:52:07: 
+The execution time (pre-processing the first document): Thu Mar 31 17:52:07 CEST 2016
+31.3.2016 17:52:07: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:52:07: 
+Application starts.
+31.3.2016 17:52:07: Multi to binary conversion.
+31.3.2016 17:52:07: The learners: PAUM
+31.3.2016 17:52:07: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:52:07: Application time for class: 149ms
+31.3.2016 17:52:07: The learning start at Thu Mar 31 17:52:07 CEST 2016
+31.3.2016 17:52:07: The number of documents in dataset: 1
+31.3.2016 17:52:07: This learning session finished!.
+31.3.2016 17:52:36: 
+*** A new run starts.
+31.3.2016 17:52:36: 
+The execution time (pre-processing the first document): Thu Mar 31 17:52:36 CEST 2016
+31.3.2016 17:52:36: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:52:36: 
+Application starts.
+31.3.2016 17:52:36: Multi to binary conversion.
+31.3.2016 17:52:36: The learners: PAUM
+31.3.2016 17:52:36: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:52:36: Application time for class: 163ms
+31.3.2016 17:52:36: The learning start at Thu Mar 31 17:52:36 CEST 2016
+31.3.2016 17:52:36: The number of documents in dataset: 1
+31.3.2016 17:52:36: This learning session finished!.
+31.3.2016 17:52:46: 
+*** A new run starts.
+31.3.2016 17:52:46: 
+The execution time (pre-processing the first document): Thu Mar 31 17:52:46 CEST 2016
+31.3.2016 17:52:46: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:52:46: 
+Application starts.
+31.3.2016 17:52:46: Multi to binary conversion.
+31.3.2016 17:52:46: The learners: PAUM
+31.3.2016 17:52:46: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:52:47: Application time for class: 189ms
+31.3.2016 17:52:47: The learning start at Thu Mar 31 17:52:47 CEST 2016
+31.3.2016 17:52:47: The number of documents in dataset: 1
+31.3.2016 17:52:47: This learning session finished!.
+31.3.2016 17:52:58: 
+*** A new run starts.
+31.3.2016 17:52:58: 
+The execution time (pre-processing the first document): Thu Mar 31 17:52:58 CEST 2016
+31.3.2016 17:52:58: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:52:58: 
+Application starts.
+31.3.2016 17:52:58: Multi to binary conversion.
+31.3.2016 17:52:58: The learners: PAUM
+31.3.2016 17:52:58: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:52:58: Application time for class: 159ms
+31.3.2016 17:52:58: The learning start at Thu Mar 31 17:52:58 CEST 2016
+31.3.2016 17:52:58: The number of documents in dataset: 1
+31.3.2016 17:52:58: This learning session finished!.
+31.3.2016 17:53:12: 
+*** A new run starts.
+31.3.2016 17:53:12: 
+The execution time (pre-processing the first document): Thu Mar 31 17:53:12 CEST 2016
+31.3.2016 17:53:12: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:53:12: 
+Application starts.
+31.3.2016 17:53:12: Multi to binary conversion.
+31.3.2016 17:53:12: The learners: PAUM
+31.3.2016 17:53:12: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:53:12: Application time for class: 184ms
+31.3.2016 17:53:12: The learning start at Thu Mar 31 17:53:12 CEST 2016
+31.3.2016 17:53:12: The number of documents in dataset: 1
+31.3.2016 17:53:12: This learning session finished!.
+31.3.2016 17:53:22: 
+*** A new run starts.
+31.3.2016 17:53:22: 
+The execution time (pre-processing the first document): Thu Mar 31 17:53:22 CEST 2016
+31.3.2016 17:53:22: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:53:22: 
+Application starts.
+31.3.2016 17:53:22: Multi to binary conversion.
+31.3.2016 17:53:22: The learners: PAUM
+31.3.2016 17:53:22: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:53:22: Application time for class: 193ms
+31.3.2016 17:53:22: The learning start at Thu Mar 31 17:53:22 CEST 2016
+31.3.2016 17:53:22: The number of documents in dataset: 1
+31.3.2016 17:53:22: This learning session finished!.
+31.3.2016 17:53:45: 
+*** A new run starts.
+31.3.2016 17:53:45: 
+The execution time (pre-processing the first document): Thu Mar 31 17:53:45 CEST 2016
+31.3.2016 17:53:45: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:53:45: 
+Application starts.
+31.3.2016 17:53:45: Multi to binary conversion.
+31.3.2016 17:53:45: The learners: PAUM
+31.3.2016 17:53:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:53:46: Application time for class: 173ms
+31.3.2016 17:53:46: The learning start at Thu Mar 31 17:53:46 CEST 2016
+31.3.2016 17:53:46: The number of documents in dataset: 1
+31.3.2016 17:53:46: This learning session finished!.
+31.3.2016 17:53:54: 
+*** A new run starts.
+31.3.2016 17:53:54: 
+The execution time (pre-processing the first document): Thu Mar 31 17:53:54 CEST 2016
+31.3.2016 17:53:54: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:53:54: 
+Application starts.
+31.3.2016 17:53:54: Multi to binary conversion.
+31.3.2016 17:53:54: The learners: PAUM
+31.3.2016 17:53:54: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:53:54: Application time for class: 176ms
+31.3.2016 17:53:54: The learning start at Thu Mar 31 17:53:54 CEST 2016
+31.3.2016 17:53:54: The number of documents in dataset: 1
+31.3.2016 17:53:54: This learning session finished!.
+31.3.2016 17:55:59: 
+
+*************************
+A new session for NLP learning is starting: 20160331_175559file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208039secs ago)The initiliased time of NLP learning: Thu Mar 31 17:55:59 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 17:55:59: 
+
+*************************
+A new session for NLP learning is starting: 20160331_175559file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208040secs ago)The initiliased time of NLP learning: Thu Mar 31 17:55:59 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 17:56:00: 
+*** A new run starts.
+31.3.2016 17:56:00: 
+The execution time (pre-processing the first document): Thu Mar 31 17:56:00 CEST 2016
+31.3.2016 17:56:00: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:56:00: Creating temp directory for application-mode files
+31.3.2016 17:56:00: 
+Application starts.
+31.3.2016 17:56:00: Multi to binary conversion.
+31.3.2016 17:56:00: The learners: PAUM
+31.3.2016 17:56:00: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:56:00: Application time for class: 210ms
+31.3.2016 17:56:00: The learning start at Thu Mar 31 17:56:00 CEST 2016
+31.3.2016 17:56:00: The number of documents in dataset: 1
+31.3.2016 17:56:00: This learning session finished!.
+31.3.2016 17:56:42: 
+*** A new run starts.
+31.3.2016 17:56:42: 
+The execution time (pre-processing the first document): Thu Mar 31 17:56:42 CEST 2016
+31.3.2016 17:56:42: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:56:42: 
+Application starts.
+31.3.2016 17:56:42: Multi to binary conversion.
+31.3.2016 17:56:42: The learners: PAUM
+31.3.2016 17:56:42: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:56:42: Application time for class: 221ms
+31.3.2016 17:56:42: The learning start at Thu Mar 31 17:56:42 CEST 2016
+31.3.2016 17:56:42: The number of documents in dataset: 1
+31.3.2016 17:56:42: This learning session finished!.
+31.3.2016 17:57:06: 
+*** A new run starts.
+31.3.2016 17:57:06: 
+The execution time (pre-processing the first document): Thu Mar 31 17:57:06 CEST 2016
+31.3.2016 17:57:06: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:57:06: 
+Application starts.
+31.3.2016 17:57:06: Multi to binary conversion.
+31.3.2016 17:57:06: The learners: PAUM
+31.3.2016 17:57:06: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:57:06: Application time for class: 236ms
+31.3.2016 17:57:06: The learning start at Thu Mar 31 17:57:06 CEST 2016
+31.3.2016 17:57:06: The number of documents in dataset: 1
+31.3.2016 17:57:06: This learning session finished!.
+31.3.2016 17:57:26: 
+*** A new run starts.
+31.3.2016 17:57:26: 
+The execution time (pre-processing the first document): Thu Mar 31 17:57:26 CEST 2016
+31.3.2016 17:57:26: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:57:26: 
+Application starts.
+31.3.2016 17:57:26: Multi to binary conversion.
+31.3.2016 17:57:26: The learners: PAUM
+31.3.2016 17:57:26: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:57:26: Application time for class: 137ms
+31.3.2016 17:57:26: The learning start at Thu Mar 31 17:57:26 CEST 2016
+31.3.2016 17:57:26: The number of documents in dataset: 1
+31.3.2016 17:57:26: This learning session finished!.
+31.3.2016 17:57:56: 
+*** A new run starts.
+31.3.2016 17:57:56: 
+The execution time (pre-processing the first document): Thu Mar 31 17:57:56 CEST 2016
+31.3.2016 17:57:56: ** Application mode for document from 0 to 1(not included):
+31.3.2016 17:57:56: 
+Application starts.
+31.3.2016 17:57:56: Multi to binary conversion.
+31.3.2016 17:57:56: The learners: PAUM
+31.3.2016 17:57:56: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 17:57:56: Application time for class: 211ms
+31.3.2016 17:57:56: The learning start at Thu Mar 31 17:57:56 CEST 2016
+31.3.2016 17:57:56: The number of documents in dataset: 1
+31.3.2016 17:57:56: This learning session finished!.
+31.3.2016 18:01:07: 
+*** A new run starts.
+31.3.2016 18:01:07: 
+The execution time (pre-processing the first document): Thu Mar 31 18:01:07 CEST 2016
+31.3.2016 18:01:07: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:01:07: 
+Application starts.
+31.3.2016 18:01:07: Multi to binary conversion.
+31.3.2016 18:01:07: The learners: PAUM
+31.3.2016 18:01:07: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:01:08: Application time for class: 194ms
+31.3.2016 18:01:08: The learning start at Thu Mar 31 18:01:08 CEST 2016
+31.3.2016 18:01:08: The number of documents in dataset: 1
+31.3.2016 18:01:08: This learning session finished!.
+31.3.2016 18:02:04: 
+
+*************************
+A new session for NLP learning is starting: 20160331_180204file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208404secs ago)The initiliased time of NLP learning: Thu Mar 31 18:02:04 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:02:04: 
+
+*************************
+A new session for NLP learning is starting: 20160331_180204file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208405secs ago)The initiliased time of NLP learning: Thu Mar 31 18:02:04 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:02:05: 
+*** A new run starts.
+31.3.2016 18:02:05: 
+The execution time (pre-processing the first document): Thu Mar 31 18:02:05 CEST 2016
+31.3.2016 18:02:05: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:02:05: Creating temp directory for application-mode files
+31.3.2016 18:02:05: 
+Application starts.
+31.3.2016 18:02:05: Multi to binary conversion.
+31.3.2016 18:02:05: The learners: PAUM
+31.3.2016 18:02:05: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:02:05: Application time for class: 146ms
+31.3.2016 18:02:05: The learning start at Thu Mar 31 18:02:05 CEST 2016
+31.3.2016 18:02:05: The number of documents in dataset: 1
+31.3.2016 18:02:05: This learning session finished!.
+31.3.2016 18:02:34: 
+*** A new run starts.
+31.3.2016 18:02:34: 
+The execution time (pre-processing the first document): Thu Mar 31 18:02:34 CEST 2016
+31.3.2016 18:02:34: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:02:34: 
+Application starts.
+31.3.2016 18:02:34: Multi to binary conversion.
+31.3.2016 18:02:34: The learners: PAUM
+31.3.2016 18:02:34: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:02:34: Application time for class: 229ms
+31.3.2016 18:02:34: The learning start at Thu Mar 31 18:02:34 CEST 2016
+31.3.2016 18:02:34: The number of documents in dataset: 1
+31.3.2016 18:02:34: This learning session finished!.
+31.3.2016 18:02:46: 
+*** A new run starts.
+31.3.2016 18:02:46: 
+The execution time (pre-processing the first document): Thu Mar 31 18:02:46 CEST 2016
+31.3.2016 18:02:46: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:02:46: 
+Application starts.
+31.3.2016 18:02:46: Multi to binary conversion.
+31.3.2016 18:02:46: The learners: PAUM
+31.3.2016 18:02:46: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:02:46: Application time for class: 178ms
+31.3.2016 18:02:46: The learning start at Thu Mar 31 18:02:46 CEST 2016
+31.3.2016 18:02:46: The number of documents in dataset: 1
+31.3.2016 18:02:46: This learning session finished!.
+31.3.2016 18:02:53: 
+*** A new run starts.
+31.3.2016 18:02:53: 
+The execution time (pre-processing the first document): Thu Mar 31 18:02:53 CEST 2016
+31.3.2016 18:02:53: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:02:53: 
+Application starts.
+31.3.2016 18:02:53: Multi to binary conversion.
+31.3.2016 18:02:53: The learners: PAUM
+31.3.2016 18:02:53: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:02:53: Application time for class: 148ms
+31.3.2016 18:02:53: The learning start at Thu Mar 31 18:02:53 CEST 2016
+31.3.2016 18:02:53: The number of documents in dataset: 1
+31.3.2016 18:02:53: This learning session finished!.
+31.3.2016 18:03:02: 
+*** A new run starts.
+31.3.2016 18:03:02: 
+The execution time (pre-processing the first document): Thu Mar 31 18:03:02 CEST 2016
+31.3.2016 18:03:02: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:03:02: 
+Application starts.
+31.3.2016 18:03:02: Multi to binary conversion.
+31.3.2016 18:03:02: The learners: PAUM
+31.3.2016 18:03:02: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:03:03: Application time for class: 152ms
+31.3.2016 18:03:03: The learning start at Thu Mar 31 18:03:03 CEST 2016
+31.3.2016 18:03:03: The number of documents in dataset: 1
+31.3.2016 18:03:03: This learning session finished!.
+31.3.2016 18:03:06: 
+*** A new run starts.
+31.3.2016 18:03:06: 
+The execution time (pre-processing the first document): Thu Mar 31 18:03:06 CEST 2016
+31.3.2016 18:03:06: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:03:06: 
+Application starts.
+31.3.2016 18:03:06: Multi to binary conversion.
+31.3.2016 18:03:06: The learners: PAUM
+31.3.2016 18:03:06: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:03:06: Application time for class: 146ms
+31.3.2016 18:03:06: The learning start at Thu Mar 31 18:03:06 CEST 2016
+31.3.2016 18:03:06: The number of documents in dataset: 1
+31.3.2016 18:03:06: This learning session finished!.
+31.3.2016 18:03:13: 
+*** A new run starts.
+31.3.2016 18:03:13: 
+The execution time (pre-processing the first document): Thu Mar 31 18:03:13 CEST 2016
+31.3.2016 18:03:13: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:03:13: 
+Application starts.
+31.3.2016 18:03:13: Multi to binary conversion.
+31.3.2016 18:03:13: The learners: PAUM
+31.3.2016 18:03:13: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:03:13: Application time for class: 171ms
+31.3.2016 18:03:13: The learning start at Thu Mar 31 18:03:13 CEST 2016
+31.3.2016 18:03:13: The number of documents in dataset: 1
+31.3.2016 18:03:13: This learning session finished!.
+31.3.2016 18:09:16: 
+
+*************************
+A new session for NLP learning is starting: 20160331_180916file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208837secs ago)The initiliased time of NLP learning: Thu Mar 31 18:09:16 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 18:09:18: 
+*** A new run starts.
+31.3.2016 18:09:18: 
+The execution time (pre-processing the first document): Thu Mar 31 18:09:18 CEST 2016
+31.3.2016 18:09:18: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:09:18: Creating temp directory for application-mode files
+31.3.2016 18:09:18: 
+Application starts.
+31.3.2016 18:09:18: Multi to binary conversion.
+31.3.2016 18:09:18: The learners: PAUM
+31.3.2016 18:09:18: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:09:18: Application time for class: 337ms
+31.3.2016 18:09:18: The learning start at Thu Mar 31 18:09:18 CEST 2016
+31.3.2016 18:09:18: The number of documents in dataset: 1
+31.3.2016 18:09:18: This learning session finished!.
+31.3.2016 18:10:40: 
+
+*************************
+A new session for NLP learning is starting: 20160331_181040file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208920secs ago)The initiliased time of NLP learning: Thu Mar 31 18:10:40 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+31.3.2016 18:10:41: 
+*** A new run starts.
+31.3.2016 18:10:41: 
+The execution time (pre-processing the first document): Thu Mar 31 18:10:41 CEST 2016
+31.3.2016 18:10:41: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:10:41: Creating temp directory for application-mode files
+31.3.2016 18:10:41: 
+Application starts.
+31.3.2016 18:10:41: Multi to binary conversion.
+31.3.2016 18:10:41: The learners: PAUM
+31.3.2016 18:10:41: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:10:43: Application time for class: 2352ms
+31.3.2016 18:10:43: The learning start at Thu Mar 31 18:10:43 CEST 2016
+31.3.2016 18:10:43: The number of documents in dataset: 1
+31.3.2016 18:10:43: This learning session finished!.
+31.3.2016 18:11:07: 
+*** A new run starts.
+31.3.2016 18:11:07: 
+The execution time (pre-processing the first document): Thu Mar 31 18:11:07 CEST 2016
+31.3.2016 18:11:07: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:11:07: 
+Application starts.
+31.3.2016 18:11:07: Multi to binary conversion.
+31.3.2016 18:11:07: The learners: PAUM
+31.3.2016 18:11:07: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:11:08: Application time for class: 238ms
+31.3.2016 18:11:08: The learning start at Thu Mar 31 18:11:08 CEST 2016
+31.3.2016 18:11:08: The number of documents in dataset: 1
+31.3.2016 18:11:08: This learning session finished!.
+31.3.2016 18:11:26: 
+*** A new run starts.
+31.3.2016 18:11:26: 
+The execution time (pre-processing the first document): Thu Mar 31 18:11:26 CEST 2016
+31.3.2016 18:11:26: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:11:26: 
+Application starts.
+31.3.2016 18:11:26: Multi to binary conversion.
+31.3.2016 18:11:26: The learners: PAUM
+31.3.2016 18:11:26: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:11:26: Application time for class: 184ms
+31.3.2016 18:11:26: The learning start at Thu Mar 31 18:11:26 CEST 2016
+31.3.2016 18:11:26: The number of documents in dataset: 1
+31.3.2016 18:11:26: This learning session finished!.
+31.3.2016 18:11:58: 
+
+*************************
+A new session for NLP learning is starting: 20160331_181158file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208998secs ago)The initiliased time of NLP learning: Thu Mar 31 18:11:58 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:11:58: 
+
+*************************
+A new session for NLP learning is starting: 20160331_181158file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 208999secs ago)The initiliased time of NLP learning: Thu Mar 31 18:11:58 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:11:59: 
+*** A new run starts.
+31.3.2016 18:11:59: 
+The execution time (pre-processing the first document): Thu Mar 31 18:11:59 CEST 2016
+31.3.2016 18:11:59: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:11:59: Creating temp directory for application-mode files
+31.3.2016 18:11:59: 
+Application starts.
+31.3.2016 18:11:59: Multi to binary conversion.
+31.3.2016 18:11:59: The learners: PAUM
+31.3.2016 18:11:59: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:11:59: Application time for class: 163ms
+31.3.2016 18:11:59: The learning start at Thu Mar 31 18:11:59 CEST 2016
+31.3.2016 18:11:59: The number of documents in dataset: 1
+31.3.2016 18:11:59: This learning session finished!.
+31.3.2016 18:12:31: 
+
+*************************
+A new session for NLP learning is starting: 20160331_181231file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 209031secs ago)The initiliased time of NLP learning: Thu Mar 31 18:12:31 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:12:31: 
+
+*************************
+A new session for NLP learning is starting: 20160331_181231file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 209032secs ago)The initiliased time of NLP learning: Thu Mar 31 18:12:31 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:12:32: 
+*** A new run starts.
+31.3.2016 18:12:32: 
+The execution time (pre-processing the first document): Thu Mar 31 18:12:32 CEST 2016
+31.3.2016 18:12:32: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:12:32: Creating temp directory for application-mode files
+31.3.2016 18:12:32: 
+Application starts.
+31.3.2016 18:12:32: Multi to binary conversion.
+31.3.2016 18:12:32: The learners: PAUM
+31.3.2016 18:12:32: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:12:32: Application time for class: 204ms
+31.3.2016 18:12:32: The learning start at Thu Mar 31 18:12:32 CEST 2016
+31.3.2016 18:12:32: The number of documents in dataset: 1
+31.3.2016 18:12:32: This learning session finished!.
+31.3.2016 18:12:35: 
+*** A new run starts.
+31.3.2016 18:12:35: 
+The execution time (pre-processing the first document): Thu Mar 31 18:12:35 CEST 2016
+31.3.2016 18:12:35: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:12:35: 
+Application starts.
+31.3.2016 18:12:35: Multi to binary conversion.
+31.3.2016 18:12:35: The learners: PAUM
+31.3.2016 18:12:35: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:12:39: Application time for class: 3806ms
+31.3.2016 18:12:39: The learning start at Thu Mar 31 18:12:39 CEST 2016
+31.3.2016 18:12:39: The number of documents in dataset: 1
+31.3.2016 18:12:39: This learning session finished!.
+31.3.2016 18:13:22: 
+
+*************************
+A new session for NLP learning is starting: 20160331_181320file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 209080secs ago)The initiliased time of NLP learning: Thu Mar 31 18:13:20 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:13:22: 
+
+*************************
+A new session for NLP learning is starting: 20160331_181322file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 209083secs ago)The initiliased time of NLP learning: Thu Mar 31 18:13:22 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+31.3.2016 18:13:23: 
+*** A new run starts.
+31.3.2016 18:13:23: 
+The execution time (pre-processing the first document): Thu Mar 31 18:13:23 CEST 2016
+31.3.2016 18:13:23: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:13:23: Creating temp directory for application-mode files
+31.3.2016 18:13:23: 
+Application starts.
+31.3.2016 18:13:23: Multi to binary conversion.
+31.3.2016 18:13:23: The learners: PAUM
+31.3.2016 18:13:23: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:13:25: Application time for class: 1705ms
+31.3.2016 18:13:25: The learning start at Thu Mar 31 18:13:25 CEST 2016
+31.3.2016 18:13:25: The number of documents in dataset: 1
+31.3.2016 18:13:25: This learning session finished!.
+31.3.2016 18:13:31: 
+*** A new run starts.
+31.3.2016 18:13:31: 
+The execution time (pre-processing the first document): Thu Mar 31 18:13:31 CEST 2016
+31.3.2016 18:13:31: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:13:31: 
+Application starts.
+31.3.2016 18:13:31: Multi to binary conversion.
+31.3.2016 18:13:31: The learners: PAUM
+31.3.2016 18:13:31: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:13:33: Application time for class: 2547ms
+31.3.2016 18:13:33: The learning start at Thu Mar 31 18:13:33 CEST 2016
+31.3.2016 18:13:33: The number of documents in dataset: 1
+31.3.2016 18:13:33: This learning session finished!.
+31.3.2016 18:13:34: 
+*** A new run starts.
+31.3.2016 18:13:34: 
+The execution time (pre-processing the first document): Thu Mar 31 18:13:34 CEST 2016
+31.3.2016 18:13:34: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:13:34: 
+Application starts.
+31.3.2016 18:13:34: Multi to binary conversion.
+31.3.2016 18:13:34: The learners: PAUM
+31.3.2016 18:13:34: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:13:35: Application time for class: 1392ms
+31.3.2016 18:13:35: The learning start at Thu Mar 31 18:13:35 CEST 2016
+31.3.2016 18:13:35: The number of documents in dataset: 1
+31.3.2016 18:13:35: This learning session finished!.
+31.3.2016 18:13:37: 
+*** A new run starts.
+31.3.2016 18:13:37: 
+The execution time (pre-processing the first document): Thu Mar 31 18:13:37 CEST 2016
+31.3.2016 18:13:37: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:13:37: 
+Application starts.
+31.3.2016 18:13:37: Multi to binary conversion.
+31.3.2016 18:13:37: The learners: PAUM
+31.3.2016 18:13:37: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:13:38: Application time for class: 1528ms
+31.3.2016 18:13:38: The learning start at Thu Mar 31 18:13:38 CEST 2016
+31.3.2016 18:13:38: The number of documents in dataset: 1
+31.3.2016 18:13:38: This learning session finished!.
+31.3.2016 18:13:39: 
+*** A new run starts.
+31.3.2016 18:13:39: 
+The execution time (pre-processing the first document): Thu Mar 31 18:13:39 CEST 2016
+31.3.2016 18:13:39: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:13:39: 
+Application starts.
+31.3.2016 18:13:39: Multi to binary conversion.
+31.3.2016 18:13:39: The learners: PAUM
+31.3.2016 18:13:39: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:13:40: Application time for class: 1447ms
+31.3.2016 18:13:40: The learning start at Thu Mar 31 18:13:40 CEST 2016
+31.3.2016 18:13:40: The number of documents in dataset: 1
+31.3.2016 18:13:40: This learning session finished!.
+31.3.2016 18:13:41: 
+*** A new run starts.
+31.3.2016 18:13:41: 
+The execution time (pre-processing the first document): Thu Mar 31 18:13:41 CEST 2016
+31.3.2016 18:13:41: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:13:42: 
+Application starts.
+31.3.2016 18:13:42: Multi to binary conversion.
+31.3.2016 18:13:42: The learners: PAUM
+31.3.2016 18:13:42: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:13:42: Application time for class: 128ms
+31.3.2016 18:13:42: The learning start at Thu Mar 31 18:13:42 CEST 2016
+31.3.2016 18:13:42: The number of documents in dataset: 1
+31.3.2016 18:13:42: This learning session finished!.
+31.3.2016 18:13:45: 
+*** A new run starts.
+31.3.2016 18:13:45: 
+The execution time (pre-processing the first document): Thu Mar 31 18:13:45 CEST 2016
+31.3.2016 18:13:45: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:13:45: 
+Application starts.
+31.3.2016 18:13:45: Multi to binary conversion.
+31.3.2016 18:13:45: The learners: PAUM
+31.3.2016 18:13:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:13:45: Application time for class: 180ms
+31.3.2016 18:13:45: The learning start at Thu Mar 31 18:13:45 CEST 2016
+31.3.2016 18:13:45: The number of documents in dataset: 1
+31.3.2016 18:13:45: This learning session finished!.
+31.3.2016 18:14:39: 
+*** A new run starts.
+31.3.2016 18:14:39: 
+The execution time (pre-processing the first document): Thu Mar 31 18:14:39 CEST 2016
+31.3.2016 18:14:39: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:14:39: 
+Application starts.
+31.3.2016 18:14:39: Multi to binary conversion.
+31.3.2016 18:14:39: The learners: PAUM
+31.3.2016 18:14:39: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:14:39: Application time for class: 183ms
+31.3.2016 18:14:39: The learning start at Thu Mar 31 18:14:39 CEST 2016
+31.3.2016 18:14:39: The number of documents in dataset: 1
+31.3.2016 18:14:39: This learning session finished!.
+31.3.2016 18:15:18: 
+*** A new run starts.
+31.3.2016 18:15:18: 
+The execution time (pre-processing the first document): Thu Mar 31 18:15:18 CEST 2016
+31.3.2016 18:15:18: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:15:18: 
+Application starts.
+31.3.2016 18:15:18: Multi to binary conversion.
+31.3.2016 18:15:18: The learners: PAUM
+31.3.2016 18:15:18: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:15:21: Application time for class: 2790ms
+31.3.2016 18:15:21: The learning start at Thu Mar 31 18:15:21 CEST 2016
+31.3.2016 18:15:21: The number of documents in dataset: 1
+31.3.2016 18:15:21: This learning session finished!.
+31.3.2016 18:15:39: 
+*** A new run starts.
+31.3.2016 18:15:39: 
+The execution time (pre-processing the first document): Thu Mar 31 18:15:39 CEST 2016
+31.3.2016 18:15:39: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:15:39: 
+Application starts.
+31.3.2016 18:15:39: Multi to binary conversion.
+31.3.2016 18:15:39: The learners: PAUM
+31.3.2016 18:15:39: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:15:41: Application time for class: 1454ms
+31.3.2016 18:15:41: The learning start at Thu Mar 31 18:15:41 CEST 2016
+31.3.2016 18:15:41: The number of documents in dataset: 1
+31.3.2016 18:15:41: This learning session finished!.
+31.3.2016 18:15:59: 
+*** A new run starts.
+31.3.2016 18:15:59: 
+The execution time (pre-processing the first document): Thu Mar 31 18:15:59 CEST 2016
+31.3.2016 18:15:59: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:15:59: 
+Application starts.
+31.3.2016 18:15:59: Multi to binary conversion.
+31.3.2016 18:15:59: The learners: PAUM
+31.3.2016 18:15:59: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:16:02: Application time for class: 3060ms
+31.3.2016 18:16:02: The learning start at Thu Mar 31 18:16:02 CEST 2016
+31.3.2016 18:16:02: The number of documents in dataset: 1
+31.3.2016 18:16:02: This learning session finished!.
+31.3.2016 18:16:11: 
+*** A new run starts.
+31.3.2016 18:16:11: 
+The execution time (pre-processing the first document): Thu Mar 31 18:16:11 CEST 2016
+31.3.2016 18:16:11: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:16:11: 
+Application starts.
+31.3.2016 18:16:11: Multi to binary conversion.
+31.3.2016 18:16:11: The learners: PAUM
+31.3.2016 18:16:11: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:16:14: Application time for class: 2859ms
+31.3.2016 18:16:14: The learning start at Thu Mar 31 18:16:14 CEST 2016
+31.3.2016 18:16:14: The number of documents in dataset: 1
+31.3.2016 18:16:14: This learning session finished!.
+31.3.2016 18:19:14: 
+*** A new run starts.
+31.3.2016 18:19:14: 
+The execution time (pre-processing the first document): Thu Mar 31 18:19:14 CEST 2016
+31.3.2016 18:19:14: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:19:14: 
+Application starts.
+31.3.2016 18:19:14: Multi to binary conversion.
+31.3.2016 18:19:14: The learners: PAUM
+31.3.2016 18:19:14: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:19:16: Application time for class: 2680ms
+31.3.2016 18:19:16: The learning start at Thu Mar 31 18:19:16 CEST 2016
+31.3.2016 18:19:16: The number of documents in dataset: 1
+31.3.2016 18:19:16: This learning session finished!.
+31.3.2016 18:20:02: 
+*** A new run starts.
+31.3.2016 18:20:02: 
+The execution time (pre-processing the first document): Thu Mar 31 18:20:02 CEST 2016
+31.3.2016 18:20:02: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:20:02: 
+Application starts.
+31.3.2016 18:20:02: Multi to binary conversion.
+31.3.2016 18:20:02: The learners: PAUM
+31.3.2016 18:20:02: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:20:02: Application time for class: 150ms
+31.3.2016 18:20:03: The learning start at Thu Mar 31 18:20:03 CEST 2016
+31.3.2016 18:20:03: The number of documents in dataset: 1
+31.3.2016 18:20:03: This learning session finished!.
+31.3.2016 18:20:16: 
+*** A new run starts.
+31.3.2016 18:20:16: 
+The execution time (pre-processing the first document): Thu Mar 31 18:20:16 CEST 2016
+31.3.2016 18:20:16: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:20:16: 
+Application starts.
+31.3.2016 18:20:16: Multi to binary conversion.
+31.3.2016 18:20:16: The learners: PAUM
+31.3.2016 18:20:16: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:20:17: Application time for class: 1055ms
+31.3.2016 18:20:17: The learning start at Thu Mar 31 18:20:17 CEST 2016
+31.3.2016 18:20:17: The number of documents in dataset: 1
+31.3.2016 18:20:17: This learning session finished!.
+31.3.2016 18:20:45: 
+*** A new run starts.
+31.3.2016 18:20:45: 
+The execution time (pre-processing the first document): Thu Mar 31 18:20:45 CEST 2016
+31.3.2016 18:20:45: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:20:45: 
+Application starts.
+31.3.2016 18:20:45: Multi to binary conversion.
+31.3.2016 18:20:45: The learners: PAUM
+31.3.2016 18:20:45: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:20:47: Application time for class: 2642ms
+31.3.2016 18:20:47: The learning start at Thu Mar 31 18:20:47 CEST 2016
+31.3.2016 18:20:47: The number of documents in dataset: 1
+31.3.2016 18:20:47: This learning session finished!.
+31.3.2016 18:21:00: 
+*** A new run starts.
+31.3.2016 18:21:00: 
+The execution time (pre-processing the first document): Thu Mar 31 18:21:00 CEST 2016
+31.3.2016 18:21:00: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:21:00: 
+Application starts.
+31.3.2016 18:21:00: Multi to binary conversion.
+31.3.2016 18:21:00: The learners: PAUM
+31.3.2016 18:21:00: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:21:03: Application time for class: 2468ms
+31.3.2016 18:21:03: The learning start at Thu Mar 31 18:21:03 CEST 2016
+31.3.2016 18:21:03: The number of documents in dataset: 1
+31.3.2016 18:21:03: This learning session finished!.
+31.3.2016 18:21:19: 
+*** A new run starts.
+31.3.2016 18:21:19: 
+The execution time (pre-processing the first document): Thu Mar 31 18:21:19 CEST 2016
+31.3.2016 18:21:19: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:21:19: 
+Application starts.
+31.3.2016 18:21:19: Multi to binary conversion.
+31.3.2016 18:21:19: The learners: PAUM
+31.3.2016 18:21:19: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:21:21: Application time for class: 2337ms
+31.3.2016 18:21:21: The learning start at Thu Mar 31 18:21:21 CEST 2016
+31.3.2016 18:21:21: The number of documents in dataset: 1
+31.3.2016 18:21:21: This learning session finished!.
+31.3.2016 18:23:55: 
+*** A new run starts.
+31.3.2016 18:23:55: 
+The execution time (pre-processing the first document): Thu Mar 31 18:23:55 CEST 2016
+31.3.2016 18:23:55: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:23:55: 
+Application starts.
+31.3.2016 18:23:55: Multi to binary conversion.
+31.3.2016 18:23:55: The learners: PAUM
+31.3.2016 18:23:55: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:23:57: Application time for class: 2534ms
+31.3.2016 18:23:57: The learning start at Thu Mar 31 18:23:57 CEST 2016
+31.3.2016 18:23:57: The number of documents in dataset: 1
+31.3.2016 18:23:57: This learning session finished!.
+31.3.2016 18:24:07: 
+*** A new run starts.
+31.3.2016 18:24:07: 
+The execution time (pre-processing the first document): Thu Mar 31 18:24:07 CEST 2016
+31.3.2016 18:24:07: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:24:07: 
+Application starts.
+31.3.2016 18:24:07: Multi to binary conversion.
+31.3.2016 18:24:07: The learners: PAUM
+31.3.2016 18:24:07: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:24:09: Application time for class: 1261ms
+31.3.2016 18:24:09: The learning start at Thu Mar 31 18:24:09 CEST 2016
+31.3.2016 18:24:09: The number of documents in dataset: 1
+31.3.2016 18:24:09: This learning session finished!.
+31.3.2016 18:24:20: 
+*** A new run starts.
+31.3.2016 18:24:20: 
+The execution time (pre-processing the first document): Thu Mar 31 18:24:20 CEST 2016
+31.3.2016 18:24:20: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:24:20: 
+Application starts.
+31.3.2016 18:24:20: Multi to binary conversion.
+31.3.2016 18:24:20: The learners: PAUM
+31.3.2016 18:24:20: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:24:20: Application time for class: 135ms
+31.3.2016 18:24:20: The learning start at Thu Mar 31 18:24:20 CEST 2016
+31.3.2016 18:24:20: The number of documents in dataset: 1
+31.3.2016 18:24:20: This learning session finished!.
+31.3.2016 18:27:25: 
+*** A new run starts.
+31.3.2016 18:27:25: 
+The execution time (pre-processing the first document): Thu Mar 31 18:27:25 CEST 2016
+31.3.2016 18:27:25: ** Application mode for document from 0 to 1(not included):
+31.3.2016 18:27:25: 
+Application starts.
+31.3.2016 18:27:25: Multi to binary conversion.
+31.3.2016 18:27:25: The learners: PAUM
+31.3.2016 18:27:25: One against others for multi to binary class conversion.
+Number of classes in model: 8
+31.3.2016 18:27:25: Application time for class: 162ms
+31.3.2016 18:27:25: The learning start at Thu Mar 31 18:27:25 CEST 2016
+31.3.2016 18:27:25: The number of documents in dataset: 1
+31.3.2016 18:27:25: This learning session finished!.

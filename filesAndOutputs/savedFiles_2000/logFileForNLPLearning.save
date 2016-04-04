@@ -1,0 +1,36 @@
+29.3.2016 15:25:31: 
+
+*************************
+A new session for NLP learning is starting: 20160329_152531file:/C:/Users/waage/Documents/MI-DDW/homework1/filesAndOutputs/paum.xml (saved 20160329_080839, 26212secs ago)The initiliased time of NLP learning: Tue Mar 29 15:25:31 CEST 2016
+Working directory: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs
+The feature files and models are saved at: C:\Users\waage\Documents\MI-DDW\homework1\filesAndOutputs\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): false
+Last message repeated 1 times.
+29.3.2016 15:26:21: 
+*** A new run starts.
+29.3.2016 15:26:21: 
+The execution time (pre-processing the first document): Tue Mar 29 15:26:21 CEST 2016
+29.3.2016 15:27:03: The learning start at Tue Mar 29 15:27:03 CEST 2016
+29.3.2016 15:27:03: The number of documents in dataset: 2
+29.3.2016 15:27:12: ** Training mode:
+29.3.2016 15:27:21: 
+Training starts.
+
+29.3.2016 15:27:21: Multi to binary conversion.
+29.3.2016 15:27:21: The learners: PAUM
+29.3.2016 15:27:21: The number of classes in dataset: 8
+29.3.2016 15:27:21: total Number of classes for learning is 8
+29.3.2016 15:27:21: One against others for multi to binary class conversion.
+29.3.2016 15:27:21: Running tasks using executor java.util.concurrent.ThreadPoolExecutor@4cc28666[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+29.3.2016 15:27:23: Training time for class 5: 1361ms
+29.3.2016 15:27:23: Training time for class 8: 1448ms
+29.3.2016 15:27:23: Training time for class 4: 1455ms
+29.3.2016 15:27:23: Training time for class 1: 1523ms
+29.3.2016 15:27:23: Training time for class 2: 1536ms
+29.3.2016 15:27:23: Training time for class 6: 1677ms
+29.3.2016 15:27:23: Training time for class 3: 1837ms
+29.3.2016 15:27:23: Training time for class 7: 1865ms
+29.3.2016 15:27:23: This learning session finished!.
