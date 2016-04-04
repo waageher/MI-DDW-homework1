@@ -15,6 +15,6 @@ public class Startup extends HttpServlet {
         System.out.println("----------");
         System.out.println("---------- Startup Servlet Initialized successfully ----------");
         System.out.println("----------");
-        //MachineLearningClient.getInstance();
+        ReviewEvaluatorClient.getInstance();
     }
 }
