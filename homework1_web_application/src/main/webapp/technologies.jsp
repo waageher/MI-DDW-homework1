@@ -126,11 +126,13 @@
                             <rect class="svg_group_1" width="200" height="50" x="160" y="10" rx="5" ry="5"/>
                             <text class="svg_group_1" x="207" y="39">Document Reset</text>
 
+                            <text x="75" y="55">test</text>
                             <path d="M 160 35 q -52 0 -50 75" />
                             <polygon points="105,100 110,110 115,100"/>
                             <rect class="svg_group_2" width="200" height="50" x="10" y="110" rx="5" ry="5"/>
                             <text class="svg_group_2" x="52" y="139">JAPE Transducer</text>
 
+                            <text x="425" y="55">train</text>
                             <path d="M 360 35 q 52 0 50 75" />
                             <polygon points="405,100 410,110 415,100"/>
                             <rect class="svg_group_3" width="200" height="50" x="310" y="110" rx="5" ry="5"/>
@@ -158,11 +160,13 @@
                             <rect class="svg_group_7" width="200" height="50" x="160" y="510" rx="5" ry="5"/>
                             <text class="svg_group_7" x="166" y="539">GATE Morphological analyser</text>
 
+                            <text x="75" y="555">test</text>
                             <path d="M 160 535 q -52 0 -50 75" />
                             <polygon points="105,600 110,610 115,600"/>
                             <rect class="svg_group_9" width="200" height="50" x="10" y="610" rx="5" ry="5"/>
                             <text class="svg_group_9" x="49" y="639">Test Batch Learning</text>
 
+                            <text x="425" y="555">train</text>
                             <path d="M 360 535 q 52 0 50 75" />
                             <polygon points="405,600 410,610 415,600"/>
                             <rect class="svg_group_8" width="200" height="50" x="310" y="610" rx="5" ry="5"/>
